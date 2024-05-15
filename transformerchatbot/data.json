@@ -1,0 +1,5702 @@
+[
+    {
+        "dialog_id": 1,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Selam!"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Merhaba, nasılsın?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Teşekkür ederim, iyiyim. Sen nasılsın?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            }
+        ]
+    },
+    {
+        "dialog_id": 2,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hava bugün çok güzel, değil mi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, gerçekten harika bir gün."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Dışarı çıkmak istiyorum, ne önerirsin?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Belki bir parkta yürüyüş yapabilirsin veya kafede oturup kahve içebilirsin."
+            }
+        ]
+    },
+    {
+        "dialog_id": 3,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün ne yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Çalışıyorum, seninle sohbet ediyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi konuda çalışıyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Makine öğrenmesi üzerine bir proje üzerinde çalışıyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 4,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Nasılsın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İyiyim, teşekkür ederim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ne güzel!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 5,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün hangi kitabı okuyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda '1984'ü okuyorum, oldukça ilginç bir kitap."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de o kitabı okudum, gerçekten etkileyiciydi."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, çok derin bir eser."
+            }
+        ]
+    },
+    {
+        "dialog_id": 6,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yemek yapmayı sever misin?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, oldukça severim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de severim. En sevdiğin yemek nedir?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Favorim, ev yapımı pizza."
+            }
+        ]
+    },
+    {
+        "dialog_id": 7,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki bu akşam 'The Godfather'ı izlerim."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "O film gerçekten klasikler arasında."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, şahane bir film."
+            }
+        ]
+    },
+    {
+        "dialog_id": 8,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Neler yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda seninle konuşuyorum, sen neler yapıyorsun?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Sadece dinleniyorum, biraz kitap okuyacağım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Kulağa harika geliyor, hangi kitabı okuyacaksın?"
+            }
+        ]
+    },
+    {
+        "dialog_id": 9,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hayatında en çok neye güveniyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İnsanların dürüstlüğüne güvenirim. Peki, sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Aynı şekilde, insanların dürüstlüğüne güvenirim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Güzel bir özellik."
+            }
+        ]
+    },
+    {
+        "dialog_id": 10,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yarın ne yapmayı planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Yarın arkadaşlarımla bir pikniğe gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hava güzel olursa harika vakit geçirirsiniz."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım hava güzel olur."
+            }
+        ]
+    },
+    {
+        "dialog_id": 11,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir hobi edinmeyi düşünüyor musun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, belki resim yapmayı deneyebilirim. Senin hobilerin neler?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben müzikle uğraşmayı seviyorum."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Müzikle uğraşmak da harika bir hobi."
+            }
+        ]
+    },
+    {
+        "dialog_id": 12,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Biraz dinlendim ve arkadaşlarımla buluştum. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla dışarı çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Keyifli zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 13,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu nereye gitmeyi düşünüyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Henüz karar vermedim, belki şehir dışına çıkarım."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "İyi bir fikir, değişiklik yapmak her zaman iyidir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, biraz değişiklik iyi gelebilir."
+            }
+        ]
+    },
+    {
+        "dialog_id": 14,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu için planların var mı?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, bir film izlemeyi ve kitap okumayı planlıyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi düşünüyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "'The Shawshank Redemption'ı izlemeyi düşünüyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 15,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava nasıl gözüküyor?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava sıcak ve güneşli olacak gibi gözüküyor."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Harika! Dışarıda vakit geçirmek için mükemmel bir gün olacak."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım güzel bir hafta sonu geçirirsiniz."
+            }
+        ]
+    },
+    {
+        "dialog_id": 16,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir sonraki tatil için nereye gitmeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki biraz deniz kenarına gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Deniz kenarı tatilleri harika olur, dinlenmek için ideal."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, deniz kenarında dinlenmek gerçekten huzur verici."
+            }
+        ]
+    },
+    {
+        "dialog_id": 17,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava durumu nasıl olacak?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava yağmurlu olacak gibi gözüküyor, içerde kalabilirsiniz."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Öyleyse belki evde film izlerim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika bir fikir!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 18,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Sinemaya gittim ve yeni bir restoranda yemek yedim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla bir doğa yürüyüşüne çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 19,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Senin en sevdiğin mevsim hangisi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Bahar, çiçeklerin ve yeşilliklerin açtığı zamanlar."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Bahar gerçekten güzel bir mevsimdir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, doğanın uyanışını izlemek harika bir duygu."
+            }
+        ]
+    },
+    {
+        "dialog_id": 1,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Selam!"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Merhaba, nasılsın?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Teşekkür ederim, iyiyim. Sen nasılsın?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            }
+        ]
+    },
+    {
+        "dialog_id": 2,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hava bugün çok güzel, değil mi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, gerçekten harika bir gün."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Dışarı çıkmak istiyorum, ne önerirsin?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Belki bir parkta yürüyüş yapabilirsin veya kafede oturup kahve içebilirsin."
+            }
+        ]
+    },
+    {
+        "dialog_id": 3,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün ne yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Çalışıyorum, seninle sohbet ediyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi konuda çalışıyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Makine öğrenmesi üzerine bir proje üzerinde çalışıyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 4,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Nasılsın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İyiyim, teşekkür ederim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ne güzel!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 5,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün hangi kitabı okuyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda '1984'ü okuyorum, oldukça ilginç bir kitap."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de o kitabı okudum, gerçekten etkileyiciydi."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, çok derin bir eser."
+            }
+        ]
+    },
+    {
+        "dialog_id": 6,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yemek yapmayı sever misin?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, oldukça severim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de severim. En sevdiğin yemek nedir?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Favorim, ev yapımı pizza."
+            }
+        ]
+    },
+    {
+        "dialog_id": 7,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki bu akşam 'The Godfather'ı izlerim."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "O film gerçekten klasikler arasında."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, şahane bir film."
+            }
+        ]
+    },
+    {
+        "dialog_id": 8,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Neler yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda seninle konuşuyorum, sen neler yapıyorsun?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Sadece dinleniyorum, biraz kitap okuyacağım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Kulağa harika geliyor, hangi kitabı okuyacaksın?"
+            }
+        ]
+    },
+    {
+        "dialog_id": 9,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hayatında en çok neye güveniyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İnsanların dürüstlüğüne güvenirim. Peki, sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Aynı şekilde, insanların dürüstlüğüne güvenirim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Güzel bir özellik."
+            }
+        ]
+    },
+    {
+        "dialog_id": 10,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yarın ne yapmayı planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Yarın arkadaşlarımla bir pikniğe gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hava güzel olursa harika vakit geçirirsiniz."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım hava güzel olur."
+            }
+        ]
+    },
+    {
+        "dialog_id": 11,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir hobi edinmeyi düşünüyor musun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, belki resim yapmayı deneyebilirim. Senin hobilerin neler?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben müzikle uğraşmayı seviyorum."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Müzikle uğraşmak da harika bir hobi."
+            }
+        ]
+    },
+    {
+        "dialog_id": 12,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Biraz dinlendim ve arkadaşlarımla buluştum. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla dışarı çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Keyifli zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 13,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu nereye gitmeyi düşünüyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Henüz karar vermedim, belki şehir dışına çıkarım."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "İyi bir fikir, değişiklik yapmak her zaman iyidir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, biraz değişiklik iyi gelebilir."
+            }
+        ]
+    },
+    {
+        "dialog_id": 14,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu için planların var mı?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, bir film izlemeyi ve kitap okumayı planlıyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi düşünüyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "'The Shawshank Redemption'ı izlemeyi düşünüyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 15,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava nasıl gözüküyor?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava sıcak ve güneşli olacak gibi gözüküyor."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Harika! Dışarıda vakit geçirmek için mükemmel bir gün olacak."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım güzel bir hafta sonu geçirirsiniz."
+            }
+        ]
+    },
+    {
+        "dialog_id": 16,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir sonraki tatil için nereye gitmeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki biraz deniz kenarına gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Deniz kenarı tatilleri harika olur, dinlenmek için ideal."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, deniz kenarında dinlenmek gerçekten huzur verici."
+            }
+        ]
+    },
+    {
+        "dialog_id": 17,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava durumu nasıl olacak?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava yağmurlu olacak gibi gözüküyor, içerde kalabilirsiniz."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Öyleyse belki evde film izlerim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika bir fikir!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 18,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Sinemaya gittim ve yeni bir restoranda yemek yedim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla bir doğa yürüyüşüne çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 19,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Senin en sevdiğin mevsim hangisi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Bahar, çiçeklerin ve yeşilliklerin açtığı zamanlar."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Bahar gerçekten güzel bir mevsimdir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, doğanın uyanışını izlemek harika bir duygu."
+            }
+        ]
+    },
+    {
+        "dialog_id": 1,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Selam!"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Merhaba, nasılsın?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Teşekkür ederim, iyiyim. Sen nasılsın?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            }
+        ]
+    },
+    {
+        "dialog_id": 2,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hava bugün çok güzel, değil mi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, gerçekten harika bir gün."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Dışarı çıkmak istiyorum, ne önerirsin?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Belki bir parkta yürüyüş yapabilirsin veya kafede oturup kahve içebilirsin."
+            }
+        ]
+    },
+    {
+        "dialog_id": 3,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün ne yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Çalışıyorum, seninle sohbet ediyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi konuda çalışıyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Makine öğrenmesi üzerine bir proje üzerinde çalışıyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 4,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Nasılsın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İyiyim, teşekkür ederim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ne güzel!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 5,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün hangi kitabı okuyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda '1984'ü okuyorum, oldukça ilginç bir kitap."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de o kitabı okudum, gerçekten etkileyiciydi."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, çok derin bir eser."
+            }
+        ]
+    },
+    {
+        "dialog_id": 6,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yemek yapmayı sever misin?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, oldukça severim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de severim. En sevdiğin yemek nedir?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Favorim, ev yapımı pizza."
+            }
+        ]
+    },
+    {
+        "dialog_id": 7,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki bu akşam 'The Godfather'ı izlerim."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "O film gerçekten klasikler arasında."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, şahane bir film."
+            }
+        ]
+    },
+    {
+        "dialog_id": 8,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Neler yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda seninle konuşuyorum, sen neler yapıyorsun?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Sadece dinleniyorum, biraz kitap okuyacağım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Kulağa harika geliyor, hangi kitabı okuyacaksın?"
+            }
+        ]
+    },
+    {
+        "dialog_id": 9,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hayatında en çok neye güveniyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İnsanların dürüstlüğüne güvenirim. Peki, sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Aynı şekilde, insanların dürüstlüğüne güvenirim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Güzel bir özellik."
+            }
+        ]
+    },
+    {
+        "dialog_id": 10,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yarın ne yapmayı planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Yarın arkadaşlarımla bir pikniğe gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hava güzel olursa harika vakit geçirirsiniz."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım hava güzel olur."
+            }
+        ]
+    },
+    {
+        "dialog_id": 11,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir hobi edinmeyi düşünüyor musun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, belki resim yapmayı deneyebilirim. Senin hobilerin neler?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben müzikle uğraşmayı seviyorum."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Müzikle uğraşmak da harika bir hobi."
+            }
+        ]
+    },
+    {
+        "dialog_id": 12,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Biraz dinlendim ve arkadaşlarımla buluştum. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla dışarı çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Keyifli zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 13,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu nereye gitmeyi düşünüyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Henüz karar vermedim, belki şehir dışına çıkarım."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "İyi bir fikir, değişiklik yapmak her zaman iyidir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, biraz değişiklik iyi gelebilir."
+            }
+        ]
+    },
+    {
+        "dialog_id": 14,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu için planların var mı?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, bir film izlemeyi ve kitap okumayı planlıyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi düşünüyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "'The Shawshank Redemption'ı izlemeyi düşünüyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 15,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava nasıl gözüküyor?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava sıcak ve güneşli olacak gibi gözüküyor."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Harika! Dışarıda vakit geçirmek için mükemmel bir gün olacak."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım güzel bir hafta sonu geçirirsiniz."
+            }
+        ]
+    },
+    {
+        "dialog_id": 16,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir sonraki tatil için nereye gitmeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki biraz deniz kenarına gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Deniz kenarı tatilleri harika olur, dinlenmek için ideal."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, deniz kenarında dinlenmek gerçekten huzur verici."
+            }
+        ]
+    },
+    {
+        "dialog_id": 17,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava durumu nasıl olacak?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava yağmurlu olacak gibi gözüküyor, içerde kalabilirsiniz."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Öyleyse belki evde film izlerim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika bir fikir!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 18,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Sinemaya gittim ve yeni bir restoranda yemek yedim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla bir doğa yürüyüşüne çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 19,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Senin en sevdiğin mevsim hangisi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Bahar, çiçeklerin ve yeşilliklerin açtığı zamanlar."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Bahar gerçekten güzel bir mevsimdir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, doğanın uyanışını izlemek harika bir duygu."
+            }
+        ]
+    },
+    {
+        "dialog_id": 1,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Selam!"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Merhaba, nasılsın?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Teşekkür ederim, iyiyim. Sen nasılsın?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            }
+        ]
+    },
+    {
+        "dialog_id": 2,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hava bugün çok güzel, değil mi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, gerçekten harika bir gün."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Dışarı çıkmak istiyorum, ne önerirsin?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Belki bir parkta yürüyüş yapabilirsin veya kafede oturup kahve içebilirsin."
+            }
+        ]
+    },
+    {
+        "dialog_id": 3,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün ne yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Çalışıyorum, seninle sohbet ediyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi konuda çalışıyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Makine öğrenmesi üzerine bir proje üzerinde çalışıyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 4,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Nasılsın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İyiyim, teşekkür ederim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ne güzel!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 5,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün hangi kitabı okuyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda '1984'ü okuyorum, oldukça ilginç bir kitap."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de o kitabı okudum, gerçekten etkileyiciydi."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, çok derin bir eser."
+            }
+        ]
+    },
+    {
+        "dialog_id": 6,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yemek yapmayı sever misin?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, oldukça severim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de severim. En sevdiğin yemek nedir?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Favorim, ev yapımı pizza."
+            }
+        ]
+    },
+    {
+        "dialog_id": 7,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki bu akşam 'The Godfather'ı izlerim."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "O film gerçekten klasikler arasında."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, şahane bir film."
+            }
+        ]
+    },
+    {
+        "dialog_id": 8,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Neler yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda seninle konuşuyorum, sen neler yapıyorsun?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Sadece dinleniyorum, biraz kitap okuyacağım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Kulağa harika geliyor, hangi kitabı okuyacaksın?"
+            }
+        ]
+    },
+    {
+        "dialog_id": 9,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hayatında en çok neye güveniyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İnsanların dürüstlüğüne güvenirim. Peki, sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Aynı şekilde, insanların dürüstlüğüne güvenirim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Güzel bir özellik."
+            }
+        ]
+    },
+    {
+        "dialog_id": 10,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yarın ne yapmayı planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Yarın arkadaşlarımla bir pikniğe gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hava güzel olursa harika vakit geçirirsiniz."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım hava güzel olur."
+            }
+        ]
+    },
+    {
+        "dialog_id": 11,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir hobi edinmeyi düşünüyor musun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, belki resim yapmayı deneyebilirim. Senin hobilerin neler?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben müzikle uğraşmayı seviyorum."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Müzikle uğraşmak da harika bir hobi."
+            }
+        ]
+    },
+    {
+        "dialog_id": 12,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Biraz dinlendim ve arkadaşlarımla buluştum. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla dışarı çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Keyifli zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 13,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu nereye gitmeyi düşünüyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Henüz karar vermedim, belki şehir dışına çıkarım."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "İyi bir fikir, değişiklik yapmak her zaman iyidir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, biraz değişiklik iyi gelebilir."
+            }
+        ]
+    },
+    {
+        "dialog_id": 14,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu için planların var mı?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, bir film izlemeyi ve kitap okumayı planlıyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi düşünüyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "'The Shawshank Redemption'ı izlemeyi düşünüyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 15,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava nasıl gözüküyor?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava sıcak ve güneşli olacak gibi gözüküyor."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Harika! Dışarıda vakit geçirmek için mükemmel bir gün olacak."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım güzel bir hafta sonu geçirirsiniz."
+            }
+        ]
+    },
+    {
+        "dialog_id": 16,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir sonraki tatil için nereye gitmeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki biraz deniz kenarına gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Deniz kenarı tatilleri harika olur, dinlenmek için ideal."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, deniz kenarında dinlenmek gerçekten huzur verici."
+            }
+        ]
+    },
+    {
+        "dialog_id": 17,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava durumu nasıl olacak?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava yağmurlu olacak gibi gözüküyor, içerde kalabilirsiniz."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Öyleyse belki evde film izlerim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika bir fikir!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 18,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Sinemaya gittim ve yeni bir restoranda yemek yedim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla bir doğa yürüyüşüne çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 19,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Senin en sevdiğin mevsim hangisi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Bahar, çiçeklerin ve yeşilliklerin açtığı zamanlar."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Bahar gerçekten güzel bir mevsimdir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, doğanın uyanışını izlemek harika bir duygu."
+            }
+        ]
+    },
+    {
+        "dialog_id": 1,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Selam!"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Merhaba, nasılsın?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Teşekkür ederim, iyiyim. Sen nasılsın?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            }
+        ]
+    },
+    {
+        "dialog_id": 2,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hava bugün çok güzel, değil mi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, gerçekten harika bir gün."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Dışarı çıkmak istiyorum, ne önerirsin?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Belki bir parkta yürüyüş yapabilirsin veya kafede oturup kahve içebilirsin."
+            }
+        ]
+    },
+    {
+        "dialog_id": 3,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün ne yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Çalışıyorum, seninle sohbet ediyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi konuda çalışıyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Makine öğrenmesi üzerine bir proje üzerinde çalışıyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 4,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Nasılsın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İyiyim, teşekkür ederim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ne güzel!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 5,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün hangi kitabı okuyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda '1984'ü okuyorum, oldukça ilginç bir kitap."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de o kitabı okudum, gerçekten etkileyiciydi."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, çok derin bir eser."
+            }
+        ]
+    },
+    {
+        "dialog_id": 6,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yemek yapmayı sever misin?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, oldukça severim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de severim. En sevdiğin yemek nedir?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Favorim, ev yapımı pizza."
+            }
+        ]
+    },
+    {
+        "dialog_id": 7,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki bu akşam 'The Godfather'ı izlerim."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "O film gerçekten klasikler arasında."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, şahane bir film."
+            }
+        ]
+    },
+    {
+        "dialog_id": 8,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Neler yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda seninle konuşuyorum, sen neler yapıyorsun?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Sadece dinleniyorum, biraz kitap okuyacağım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Kulağa harika geliyor, hangi kitabı okuyacaksın?"
+            }
+        ]
+    },
+    {
+        "dialog_id": 9,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hayatında en çok neye güveniyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İnsanların dürüstlüğüne güvenirim. Peki, sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Aynı şekilde, insanların dürüstlüğüne güvenirim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Güzel bir özellik."
+            }
+        ]
+    },
+    {
+        "dialog_id": 10,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yarın ne yapmayı planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Yarın arkadaşlarımla bir pikniğe gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hava güzel olursa harika vakit geçirirsiniz."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım hava güzel olur."
+            }
+        ]
+    },
+    {
+        "dialog_id": 11,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir hobi edinmeyi düşünüyor musun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, belki resim yapmayı deneyebilirim. Senin hobilerin neler?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben müzikle uğraşmayı seviyorum."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Müzikle uğraşmak da harika bir hobi."
+            }
+        ]
+    },
+    {
+        "dialog_id": 12,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Biraz dinlendim ve arkadaşlarımla buluştum. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla dışarı çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Keyifli zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 13,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu nereye gitmeyi düşünüyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Henüz karar vermedim, belki şehir dışına çıkarım."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "İyi bir fikir, değişiklik yapmak her zaman iyidir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, biraz değişiklik iyi gelebilir."
+            }
+        ]
+    },
+    {
+        "dialog_id": 14,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu için planların var mı?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, bir film izlemeyi ve kitap okumayı planlıyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi düşünüyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "'The Shawshank Redemption'ı izlemeyi düşünüyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 15,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava nasıl gözüküyor?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava sıcak ve güneşli olacak gibi gözüküyor."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Harika! Dışarıda vakit geçirmek için mükemmel bir gün olacak."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım güzel bir hafta sonu geçirirsiniz."
+            }
+        ]
+    },
+    {
+        "dialog_id": 16,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir sonraki tatil için nereye gitmeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki biraz deniz kenarına gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Deniz kenarı tatilleri harika olur, dinlenmek için ideal."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, deniz kenarında dinlenmek gerçekten huzur verici."
+            }
+        ]
+    },
+    {
+        "dialog_id": 17,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava durumu nasıl olacak?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava yağmurlu olacak gibi gözüküyor, içerde kalabilirsiniz."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Öyleyse belki evde film izlerim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika bir fikir!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 18,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Sinemaya gittim ve yeni bir restoranda yemek yedim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla bir doğa yürüyüşüne çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 19,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Senin en sevdiğin mevsim hangisi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Bahar, çiçeklerin ve yeşilliklerin açtığı zamanlar."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Bahar gerçekten güzel bir mevsimdir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, doğanın uyanışını izlemek harika bir duygu."
+            }
+        ]
+    },
+    {
+        "dialog_id": 1,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Selam!"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Merhaba, nasılsın?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Teşekkür ederim, iyiyim. Sen nasılsın?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            }
+        ]
+    },
+    {
+        "dialog_id": 2,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hava bugün çok güzel, değil mi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, gerçekten harika bir gün."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Dışarı çıkmak istiyorum, ne önerirsin?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Belki bir parkta yürüyüş yapabilirsin veya kafede oturup kahve içebilirsin."
+            }
+        ]
+    },
+    {
+        "dialog_id": 3,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün ne yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Çalışıyorum, seninle sohbet ediyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi konuda çalışıyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Makine öğrenmesi üzerine bir proje üzerinde çalışıyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 4,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Nasılsın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İyiyim, teşekkür ederim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ne güzel!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 5,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün hangi kitabı okuyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda '1984'ü okuyorum, oldukça ilginç bir kitap."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de o kitabı okudum, gerçekten etkileyiciydi."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, çok derin bir eser."
+            }
+        ]
+    },
+    {
+        "dialog_id": 6,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yemek yapmayı sever misin?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, oldukça severim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de severim. En sevdiğin yemek nedir?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Favorim, ev yapımı pizza."
+            }
+        ]
+    },
+    {
+        "dialog_id": 7,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki bu akşam 'The Godfather'ı izlerim."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "O film gerçekten klasikler arasında."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, şahane bir film."
+            }
+        ]
+    },
+    {
+        "dialog_id": 8,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Neler yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda seninle konuşuyorum, sen neler yapıyorsun?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Sadece dinleniyorum, biraz kitap okuyacağım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Kulağa harika geliyor, hangi kitabı okuyacaksın?"
+            }
+        ]
+    },
+    {
+        "dialog_id": 9,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hayatında en çok neye güveniyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İnsanların dürüstlüğüne güvenirim. Peki, sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Aynı şekilde, insanların dürüstlüğüne güvenirim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Güzel bir özellik."
+            }
+        ]
+    },
+    {
+        "dialog_id": 10,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yarın ne yapmayı planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Yarın arkadaşlarımla bir pikniğe gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hava güzel olursa harika vakit geçirirsiniz."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım hava güzel olur."
+            }
+        ]
+    },
+    {
+        "dialog_id": 11,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir hobi edinmeyi düşünüyor musun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, belki resim yapmayı deneyebilirim. Senin hobilerin neler?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben müzikle uğraşmayı seviyorum."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Müzikle uğraşmak da harika bir hobi."
+            }
+        ]
+    },
+    {
+        "dialog_id": 12,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Biraz dinlendim ve arkadaşlarımla buluştum. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla dışarı çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Keyifli zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 13,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu nereye gitmeyi düşünüyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Henüz karar vermedim, belki şehir dışına çıkarım."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "İyi bir fikir, değişiklik yapmak her zaman iyidir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, biraz değişiklik iyi gelebilir."
+            }
+        ]
+    },
+    {
+        "dialog_id": 14,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu için planların var mı?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, bir film izlemeyi ve kitap okumayı planlıyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi düşünüyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "'The Shawshank Redemption'ı izlemeyi düşünüyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 15,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava nasıl gözüküyor?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava sıcak ve güneşli olacak gibi gözüküyor."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Harika! Dışarıda vakit geçirmek için mükemmel bir gün olacak."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım güzel bir hafta sonu geçirirsiniz."
+            }
+        ]
+    },
+    {
+        "dialog_id": 16,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir sonraki tatil için nereye gitmeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki biraz deniz kenarına gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Deniz kenarı tatilleri harika olur, dinlenmek için ideal."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, deniz kenarında dinlenmek gerçekten huzur verici."
+            }
+        ]
+    },
+    {
+        "dialog_id": 17,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava durumu nasıl olacak?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava yağmurlu olacak gibi gözüküyor, içerde kalabilirsiniz."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Öyleyse belki evde film izlerim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika bir fikir!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 18,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Sinemaya gittim ve yeni bir restoranda yemek yedim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla bir doğa yürüyüşüne çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 19,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Senin en sevdiğin mevsim hangisi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Bahar, çiçeklerin ve yeşilliklerin açtığı zamanlar."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Bahar gerçekten güzel bir mevsimdir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, doğanın uyanışını izlemek harika bir duygu."
+            }
+        ]
+    },
+    {
+        "dialog_id": 1,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Selam!"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Merhaba, nasılsın?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Teşekkür ederim, iyiyim. Sen nasılsın?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            }
+        ]
+    },
+    {
+        "dialog_id": 2,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hava bugün çok güzel, değil mi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, gerçekten harika bir gün."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Dışarı çıkmak istiyorum, ne önerirsin?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Belki bir parkta yürüyüş yapabilirsin veya kafede oturup kahve içebilirsin."
+            }
+        ]
+    },
+    {
+        "dialog_id": 3,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün ne yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Çalışıyorum, seninle sohbet ediyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi konuda çalışıyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Makine öğrenmesi üzerine bir proje üzerinde çalışıyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 4,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Nasılsın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İyiyim, teşekkür ederim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ne güzel!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 5,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün hangi kitabı okuyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda '1984'ü okuyorum, oldukça ilginç bir kitap."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de o kitabı okudum, gerçekten etkileyiciydi."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, çok derin bir eser."
+            }
+        ]
+    },
+    {
+        "dialog_id": 6,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yemek yapmayı sever misin?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, oldukça severim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de severim. En sevdiğin yemek nedir?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Favorim, ev yapımı pizza."
+            }
+        ]
+    },
+    {
+        "dialog_id": 7,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki bu akşam 'The Godfather'ı izlerim."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "O film gerçekten klasikler arasında."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, şahane bir film."
+            }
+        ]
+    },
+    {
+        "dialog_id": 8,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Neler yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda seninle konuşuyorum, sen neler yapıyorsun?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Sadece dinleniyorum, biraz kitap okuyacağım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Kulağa harika geliyor, hangi kitabı okuyacaksın?"
+            }
+        ]
+    },
+    {
+        "dialog_id": 9,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hayatında en çok neye güveniyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İnsanların dürüstlüğüne güvenirim. Peki, sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Aynı şekilde, insanların dürüstlüğüne güvenirim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Güzel bir özellik."
+            }
+        ]
+    },
+    {
+        "dialog_id": 10,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yarın ne yapmayı planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Yarın arkadaşlarımla bir pikniğe gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hava güzel olursa harika vakit geçirirsiniz."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım hava güzel olur."
+            }
+        ]
+    },
+    {
+        "dialog_id": 11,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir hobi edinmeyi düşünüyor musun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, belki resim yapmayı deneyebilirim. Senin hobilerin neler?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben müzikle uğraşmayı seviyorum."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Müzikle uğraşmak da harika bir hobi."
+            }
+        ]
+    },
+    {
+        "dialog_id": 12,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Biraz dinlendim ve arkadaşlarımla buluştum. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla dışarı çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Keyifli zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 13,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu nereye gitmeyi düşünüyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Henüz karar vermedim, belki şehir dışına çıkarım."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "İyi bir fikir, değişiklik yapmak her zaman iyidir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, biraz değişiklik iyi gelebilir."
+            }
+        ]
+    },
+    {
+        "dialog_id": 14,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu için planların var mı?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, bir film izlemeyi ve kitap okumayı planlıyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi düşünüyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "'The Shawshank Redemption'ı izlemeyi düşünüyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 15,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava nasıl gözüküyor?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava sıcak ve güneşli olacak gibi gözüküyor."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Harika! Dışarıda vakit geçirmek için mükemmel bir gün olacak."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım güzel bir hafta sonu geçirirsiniz."
+            }
+        ]
+    },
+    {
+        "dialog_id": 16,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir sonraki tatil için nereye gitmeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki biraz deniz kenarına gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Deniz kenarı tatilleri harika olur, dinlenmek için ideal."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, deniz kenarında dinlenmek gerçekten huzur verici."
+            }
+        ]
+    },
+    {
+        "dialog_id": 17,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava durumu nasıl olacak?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava yağmurlu olacak gibi gözüküyor, içerde kalabilirsiniz."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Öyleyse belki evde film izlerim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika bir fikir!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 18,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Sinemaya gittim ve yeni bir restoranda yemek yedim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla bir doğa yürüyüşüne çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 19,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Senin en sevdiğin mevsim hangisi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Bahar, çiçeklerin ve yeşilliklerin açtığı zamanlar."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Bahar gerçekten güzel bir mevsimdir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, doğanın uyanışını izlemek harika bir duygu."
+            }
+        ]
+    },
+    {
+        "dialog_id": 1,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Selam!"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Merhaba, nasılsın?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Teşekkür ederim, iyiyim. Sen nasılsın?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            }
+        ]
+    },
+    {
+        "dialog_id": 2,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hava bugün çok güzel, değil mi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, gerçekten harika bir gün."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Dışarı çıkmak istiyorum, ne önerirsin?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Belki bir parkta yürüyüş yapabilirsin veya kafede oturup kahve içebilirsin."
+            }
+        ]
+    },
+    {
+        "dialog_id": 3,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün ne yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Çalışıyorum, seninle sohbet ediyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi konuda çalışıyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Makine öğrenmesi üzerine bir proje üzerinde çalışıyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 4,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Nasılsın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İyiyim, teşekkür ederim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ne güzel!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 5,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün hangi kitabı okuyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda '1984'ü okuyorum, oldukça ilginç bir kitap."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de o kitabı okudum, gerçekten etkileyiciydi."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, çok derin bir eser."
+            }
+        ]
+    },
+    {
+        "dialog_id": 6,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yemek yapmayı sever misin?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, oldukça severim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de severim. En sevdiğin yemek nedir?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Favorim, ev yapımı pizza."
+            }
+        ]
+    },
+    {
+        "dialog_id": 7,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki bu akşam 'The Godfather'ı izlerim."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "O film gerçekten klasikler arasında."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, şahane bir film."
+            }
+        ]
+    },
+    {
+        "dialog_id": 8,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Neler yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda seninle konuşuyorum, sen neler yapıyorsun?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Sadece dinleniyorum, biraz kitap okuyacağım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Kulağa harika geliyor, hangi kitabı okuyacaksın?"
+            }
+        ]
+    },
+    {
+        "dialog_id": 9,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hayatında en çok neye güveniyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İnsanların dürüstlüğüne güvenirim. Peki, sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Aynı şekilde, insanların dürüstlüğüne güvenirim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Güzel bir özellik."
+            }
+        ]
+    },
+    {
+        "dialog_id": 10,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yarın ne yapmayı planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Yarın arkadaşlarımla bir pikniğe gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hava güzel olursa harika vakit geçirirsiniz."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım hava güzel olur."
+            }
+        ]
+    },
+    {
+        "dialog_id": 11,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir hobi edinmeyi düşünüyor musun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, belki resim yapmayı deneyebilirim. Senin hobilerin neler?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben müzikle uğraşmayı seviyorum."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Müzikle uğraşmak da harika bir hobi."
+            }
+        ]
+    },
+    {
+        "dialog_id": 12,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Biraz dinlendim ve arkadaşlarımla buluştum. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla dışarı çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Keyifli zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 13,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu nereye gitmeyi düşünüyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Henüz karar vermedim, belki şehir dışına çıkarım."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "İyi bir fikir, değişiklik yapmak her zaman iyidir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, biraz değişiklik iyi gelebilir."
+            }
+        ]
+    },
+    {
+        "dialog_id": 14,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu için planların var mı?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, bir film izlemeyi ve kitap okumayı planlıyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi düşünüyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "'The Shawshank Redemption'ı izlemeyi düşünüyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 15,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava nasıl gözüküyor?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava sıcak ve güneşli olacak gibi gözüküyor."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Harika! Dışarıda vakit geçirmek için mükemmel bir gün olacak."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım güzel bir hafta sonu geçirirsiniz."
+            }
+        ]
+    },
+    {
+        "dialog_id": 16,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir sonraki tatil için nereye gitmeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki biraz deniz kenarına gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Deniz kenarı tatilleri harika olur, dinlenmek için ideal."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, deniz kenarında dinlenmek gerçekten huzur verici."
+            }
+        ]
+    },
+    {
+        "dialog_id": 17,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava durumu nasıl olacak?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava yağmurlu olacak gibi gözüküyor, içerde kalabilirsiniz."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Öyleyse belki evde film izlerim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika bir fikir!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 18,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Sinemaya gittim ve yeni bir restoranda yemek yedim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla bir doğa yürüyüşüne çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 19,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Senin en sevdiğin mevsim hangisi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Bahar, çiçeklerin ve yeşilliklerin açtığı zamanlar."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Bahar gerçekten güzel bir mevsimdir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, doğanın uyanışını izlemek harika bir duygu."
+            }
+        ]
+    },
+    {
+        "dialog_id": 1,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Selam!"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Merhaba, nasılsın?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Teşekkür ederim, iyiyim. Sen nasılsın?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            }
+        ]
+    },
+    {
+        "dialog_id": 2,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hava bugün çok güzel, değil mi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, gerçekten harika bir gün."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Dışarı çıkmak istiyorum, ne önerirsin?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Belki bir parkta yürüyüş yapabilirsin veya kafede oturup kahve içebilirsin."
+            }
+        ]
+    },
+    {
+        "dialog_id": 3,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün ne yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Çalışıyorum, seninle sohbet ediyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi konuda çalışıyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Makine öğrenmesi üzerine bir proje üzerinde çalışıyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 4,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Nasılsın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İyiyim, teşekkür ederim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ne güzel!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 5,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün hangi kitabı okuyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda '1984'ü okuyorum, oldukça ilginç bir kitap."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de o kitabı okudum, gerçekten etkileyiciydi."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, çok derin bir eser."
+            }
+        ]
+    },
+    {
+        "dialog_id": 6,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yemek yapmayı sever misin?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, oldukça severim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de severim. En sevdiğin yemek nedir?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Favorim, ev yapımı pizza."
+            }
+        ]
+    },
+    {
+        "dialog_id": 7,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki bu akşam 'The Godfather'ı izlerim."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "O film gerçekten klasikler arasında."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, şahane bir film."
+            }
+        ]
+    },
+    {
+        "dialog_id": 8,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Neler yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda seninle konuşuyorum, sen neler yapıyorsun?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Sadece dinleniyorum, biraz kitap okuyacağım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Kulağa harika geliyor, hangi kitabı okuyacaksın?"
+            }
+        ]
+    },
+    {
+        "dialog_id": 9,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hayatında en çok neye güveniyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İnsanların dürüstlüğüne güvenirim. Peki, sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Aynı şekilde, insanların dürüstlüğüne güvenirim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Güzel bir özellik."
+            }
+        ]
+    },
+    {
+        "dialog_id": 10,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yarın ne yapmayı planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Yarın arkadaşlarımla bir pikniğe gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hava güzel olursa harika vakit geçirirsiniz."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım hava güzel olur."
+            }
+        ]
+    },
+    {
+        "dialog_id": 11,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir hobi edinmeyi düşünüyor musun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, belki resim yapmayı deneyebilirim. Senin hobilerin neler?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben müzikle uğraşmayı seviyorum."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Müzikle uğraşmak da harika bir hobi."
+            }
+        ]
+    },
+    {
+        "dialog_id": 12,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Biraz dinlendim ve arkadaşlarımla buluştum. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla dışarı çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Keyifli zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 13,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu nereye gitmeyi düşünüyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Henüz karar vermedim, belki şehir dışına çıkarım."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "İyi bir fikir, değişiklik yapmak her zaman iyidir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, biraz değişiklik iyi gelebilir."
+            }
+        ]
+    },
+    {
+        "dialog_id": 14,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu için planların var mı?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, bir film izlemeyi ve kitap okumayı planlıyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi düşünüyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "'The Shawshank Redemption'ı izlemeyi düşünüyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 15,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava nasıl gözüküyor?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava sıcak ve güneşli olacak gibi gözüküyor."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Harika! Dışarıda vakit geçirmek için mükemmel bir gün olacak."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım güzel bir hafta sonu geçirirsiniz."
+            }
+        ]
+    },
+    {
+        "dialog_id": 16,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir sonraki tatil için nereye gitmeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki biraz deniz kenarına gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Deniz kenarı tatilleri harika olur, dinlenmek için ideal."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, deniz kenarında dinlenmek gerçekten huzur verici."
+            }
+        ]
+    },
+    {
+        "dialog_id": 17,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava durumu nasıl olacak?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava yağmurlu olacak gibi gözüküyor, içerde kalabilirsiniz."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Öyleyse belki evde film izlerim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika bir fikir!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 18,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Sinemaya gittim ve yeni bir restoranda yemek yedim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla bir doğa yürüyüşüne çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 19,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Senin en sevdiğin mevsim hangisi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Bahar, çiçeklerin ve yeşilliklerin açtığı zamanlar."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Bahar gerçekten güzel bir mevsimdir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, doğanın uyanışını izlemek harika bir duygu."
+            }
+        ]
+    },
+    {
+        "dialog_id": 1,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Selam!"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Merhaba, nasılsın?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Teşekkür ederim, iyiyim. Sen nasılsın?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            }
+        ]
+    },
+    {
+        "dialog_id": 2,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hava bugün çok güzel, değil mi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, gerçekten harika bir gün."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Dışarı çıkmak istiyorum, ne önerirsin?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Belki bir parkta yürüyüş yapabilirsin veya kafede oturup kahve içebilirsin."
+            }
+        ]
+    },
+    {
+        "dialog_id": 3,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün ne yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Çalışıyorum, seninle sohbet ediyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi konuda çalışıyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Makine öğrenmesi üzerine bir proje üzerinde çalışıyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 4,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Nasılsın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İyiyim, teşekkür ederim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ne güzel!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 5,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün hangi kitabı okuyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda '1984'ü okuyorum, oldukça ilginç bir kitap."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de o kitabı okudum, gerçekten etkileyiciydi."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, çok derin bir eser."
+            }
+        ]
+    },
+    {
+        "dialog_id": 6,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yemek yapmayı sever misin?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, oldukça severim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de severim. En sevdiğin yemek nedir?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Favorim, ev yapımı pizza."
+            }
+        ]
+    },
+    {
+        "dialog_id": 7,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki bu akşam 'The Godfather'ı izlerim."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "O film gerçekten klasikler arasında."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, şahane bir film."
+            }
+        ]
+    },
+    {
+        "dialog_id": 8,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Neler yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda seninle konuşuyorum, sen neler yapıyorsun?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Sadece dinleniyorum, biraz kitap okuyacağım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Kulağa harika geliyor, hangi kitabı okuyacaksın?"
+            }
+        ]
+    },
+    {
+        "dialog_id": 9,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hayatında en çok neye güveniyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İnsanların dürüstlüğüne güvenirim. Peki, sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Aynı şekilde, insanların dürüstlüğüne güvenirim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Güzel bir özellik."
+            }
+        ]
+    },
+    {
+        "dialog_id": 10,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yarın ne yapmayı planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Yarın arkadaşlarımla bir pikniğe gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hava güzel olursa harika vakit geçirirsiniz."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım hava güzel olur."
+            }
+        ]
+    },
+    {
+        "dialog_id": 11,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir hobi edinmeyi düşünüyor musun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, belki resim yapmayı deneyebilirim. Senin hobilerin neler?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben müzikle uğraşmayı seviyorum."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Müzikle uğraşmak da harika bir hobi."
+            }
+        ]
+    },
+    {
+        "dialog_id": 12,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Biraz dinlendim ve arkadaşlarımla buluştum. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla dışarı çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Keyifli zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 13,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu nereye gitmeyi düşünüyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Henüz karar vermedim, belki şehir dışına çıkarım."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "İyi bir fikir, değişiklik yapmak her zaman iyidir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, biraz değişiklik iyi gelebilir."
+            }
+        ]
+    },
+    {
+        "dialog_id": 14,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu için planların var mı?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, bir film izlemeyi ve kitap okumayı planlıyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi düşünüyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "'The Shawshank Redemption'ı izlemeyi düşünüyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 15,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava nasıl gözüküyor?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava sıcak ve güneşli olacak gibi gözüküyor."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Harika! Dışarıda vakit geçirmek için mükemmel bir gün olacak."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım güzel bir hafta sonu geçirirsiniz."
+            }
+        ]
+    },
+    {
+        "dialog_id": 16,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir sonraki tatil için nereye gitmeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki biraz deniz kenarına gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Deniz kenarı tatilleri harika olur, dinlenmek için ideal."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, deniz kenarında dinlenmek gerçekten huzur verici."
+            }
+        ]
+    },
+    {
+        "dialog_id": 17,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava durumu nasıl olacak?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava yağmurlu olacak gibi gözüküyor, içerde kalabilirsiniz."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Öyleyse belki evde film izlerim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika bir fikir!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 18,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Sinemaya gittim ve yeni bir restoranda yemek yedim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla bir doğa yürüyüşüne çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 19,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Senin en sevdiğin mevsim hangisi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Bahar, çiçeklerin ve yeşilliklerin açtığı zamanlar."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Bahar gerçekten güzel bir mevsimdir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, doğanın uyanışını izlemek harika bir duygu."
+            }
+        ]
+    },
+    {
+        "dialog_id": 1,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Selam!"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Merhaba, nasılsın?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Teşekkür ederim, iyiyim. Sen nasılsın?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            }
+        ]
+    },
+    {
+        "dialog_id": 2,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hava bugün çok güzel, değil mi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, gerçekten harika bir gün."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Dışarı çıkmak istiyorum, ne önerirsin?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Belki bir parkta yürüyüş yapabilirsin veya kafede oturup kahve içebilirsin."
+            }
+        ]
+    },
+    {
+        "dialog_id": 3,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün ne yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Çalışıyorum, seninle sohbet ediyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi konuda çalışıyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Makine öğrenmesi üzerine bir proje üzerinde çalışıyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 4,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Nasılsın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İyiyim, teşekkür ederim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ne güzel!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 5,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün hangi kitabı okuyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda '1984'ü okuyorum, oldukça ilginç bir kitap."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de o kitabı okudum, gerçekten etkileyiciydi."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, çok derin bir eser."
+            }
+        ]
+    },
+    {
+        "dialog_id": 6,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yemek yapmayı sever misin?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, oldukça severim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de severim. En sevdiğin yemek nedir?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Favorim, ev yapımı pizza."
+            }
+        ]
+    },
+    {
+        "dialog_id": 7,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki bu akşam 'The Godfather'ı izlerim."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "O film gerçekten klasikler arasında."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, şahane bir film."
+            }
+        ]
+    },
+    {
+        "dialog_id": 8,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Neler yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda seninle konuşuyorum, sen neler yapıyorsun?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Sadece dinleniyorum, biraz kitap okuyacağım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Kulağa harika geliyor, hangi kitabı okuyacaksın?"
+            }
+        ]
+    },
+    {
+        "dialog_id": 9,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hayatında en çok neye güveniyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İnsanların dürüstlüğüne güvenirim. Peki, sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Aynı şekilde, insanların dürüstlüğüne güvenirim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Güzel bir özellik."
+            }
+        ]
+    },
+    {
+        "dialog_id": 10,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yarın ne yapmayı planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Yarın arkadaşlarımla bir pikniğe gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hava güzel olursa harika vakit geçirirsiniz."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım hava güzel olur."
+            }
+        ]
+    },
+    {
+        "dialog_id": 11,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir hobi edinmeyi düşünüyor musun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, belki resim yapmayı deneyebilirim. Senin hobilerin neler?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben müzikle uğraşmayı seviyorum."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Müzikle uğraşmak da harika bir hobi."
+            }
+        ]
+    },
+    {
+        "dialog_id": 12,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Biraz dinlendim ve arkadaşlarımla buluştum. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla dışarı çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Keyifli zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 13,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu nereye gitmeyi düşünüyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Henüz karar vermedim, belki şehir dışına çıkarım."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "İyi bir fikir, değişiklik yapmak her zaman iyidir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, biraz değişiklik iyi gelebilir."
+            }
+        ]
+    },
+    {
+        "dialog_id": 14,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu için planların var mı?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, bir film izlemeyi ve kitap okumayı planlıyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi düşünüyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "'The Shawshank Redemption'ı izlemeyi düşünüyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 15,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava nasıl gözüküyor?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava sıcak ve güneşli olacak gibi gözüküyor."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Harika! Dışarıda vakit geçirmek için mükemmel bir gün olacak."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım güzel bir hafta sonu geçirirsiniz."
+            }
+        ]
+    },
+    {
+        "dialog_id": 16,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir sonraki tatil için nereye gitmeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki biraz deniz kenarına gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Deniz kenarı tatilleri harika olur, dinlenmek için ideal."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, deniz kenarında dinlenmek gerçekten huzur verici."
+            }
+        ]
+    },
+    {
+        "dialog_id": 17,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava durumu nasıl olacak?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava yağmurlu olacak gibi gözüküyor, içerde kalabilirsiniz."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Öyleyse belki evde film izlerim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika bir fikir!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 18,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Sinemaya gittim ve yeni bir restoranda yemek yedim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla bir doğa yürüyüşüne çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 19,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Senin en sevdiğin mevsim hangisi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Bahar, çiçeklerin ve yeşilliklerin açtığı zamanlar."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Bahar gerçekten güzel bir mevsimdir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, doğanın uyanışını izlemek harika bir duygu."
+            }
+        ]
+    },
+    {
+        "dialog_id": 1,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Selam!"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Merhaba, nasılsın?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Teşekkür ederim, iyiyim. Sen nasılsın?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            }
+        ]
+    },
+    {
+        "dialog_id": 2,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hava bugün çok güzel, değil mi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, gerçekten harika bir gün."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Dışarı çıkmak istiyorum, ne önerirsin?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Belki bir parkta yürüyüş yapabilirsin veya kafede oturup kahve içebilirsin."
+            }
+        ]
+    },
+    {
+        "dialog_id": 3,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün ne yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Çalışıyorum, seninle sohbet ediyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi konuda çalışıyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Makine öğrenmesi üzerine bir proje üzerinde çalışıyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 4,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Nasılsın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İyiyim, teşekkür ederim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de iyiyim, teşekkür ederim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Ne güzel!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 5,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bugün hangi kitabı okuyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda '1984'ü okuyorum, oldukça ilginç bir kitap."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de o kitabı okudum, gerçekten etkileyiciydi."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, çok derin bir eser."
+            }
+        ]
+    },
+    {
+        "dialog_id": 6,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yemek yapmayı sever misin?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, oldukça severim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de severim. En sevdiğin yemek nedir?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Favorim, ev yapımı pizza."
+            }
+        ]
+    },
+    {
+        "dialog_id": 7,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki bu akşam 'The Godfather'ı izlerim."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "O film gerçekten klasikler arasında."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, şahane bir film."
+            }
+        ]
+    },
+    {
+        "dialog_id": 8,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Neler yapıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Şu anda seninle konuşuyorum, sen neler yapıyorsun?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Sadece dinleniyorum, biraz kitap okuyacağım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Kulağa harika geliyor, hangi kitabı okuyacaksın?"
+            }
+        ]
+    },
+    {
+        "dialog_id": 9,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hayatında en çok neye güveniyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "İnsanların dürüstlüğüne güvenirim. Peki, sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Aynı şekilde, insanların dürüstlüğüne güvenirim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Güzel bir özellik."
+            }
+        ]
+    },
+    {
+        "dialog_id": 10,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yarın ne yapmayı planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Yarın arkadaşlarımla bir pikniğe gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hava güzel olursa harika vakit geçirirsiniz."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım hava güzel olur."
+            }
+        ]
+    },
+    {
+        "dialog_id": 11,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir hobi edinmeyi düşünüyor musun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, belki resim yapmayı deneyebilirim. Senin hobilerin neler?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben müzikle uğraşmayı seviyorum."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Müzikle uğraşmak da harika bir hobi."
+            }
+        ]
+    },
+    {
+        "dialog_id": 12,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Biraz dinlendim ve arkadaşlarımla buluştum. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla dışarı çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Keyifli zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 13,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu nereye gitmeyi düşünüyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Henüz karar vermedim, belki şehir dışına çıkarım."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "İyi bir fikir, değişiklik yapmak her zaman iyidir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, biraz değişiklik iyi gelebilir."
+            }
+        ]
+    },
+    {
+        "dialog_id": 14,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu hafta sonu için planların var mı?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Evet, bir film izlemeyi ve kitap okumayı planlıyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Hangi filmi izlemeyi düşünüyorsun?"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "'The Shawshank Redemption'ı izlemeyi düşünüyorum."
+            }
+        ]
+    },
+    {
+        "dialog_id": 15,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava nasıl gözüküyor?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava sıcak ve güneşli olacak gibi gözüküyor."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Harika! Dışarıda vakit geçirmek için mükemmel bir gün olacak."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, umarım güzel bir hafta sonu geçirirsiniz."
+            }
+        ]
+    },
+    {
+        "dialog_id": 16,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bir sonraki tatil için nereye gitmeyi planlıyorsun?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Belki biraz deniz kenarına gitmeyi düşünüyorum."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Deniz kenarı tatilleri harika olur, dinlenmek için ideal."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, deniz kenarında dinlenmek gerçekten huzur verici."
+            }
+        ]
+    },
+    {
+        "dialog_id": 17,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Hafta sonu için hava durumu nasıl olacak?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Hava yağmurlu olacak gibi gözüküyor, içerde kalabilirsiniz."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Öyleyse belki evde film izlerim."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika bir fikir!"
+            }
+        ]
+    },
+    {
+        "dialog_id": 18,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Geçen hafta sonu ne yaptın?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Sinemaya gittim ve yeni bir restoranda yemek yedim. Sen?"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Ben de arkadaşlarımla bir doğa yürüyüşüne çıktım."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Harika zaman geçirmişsinizdir umarım."
+            }
+        ]
+    },
+    {
+        "dialog_id": 19,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Senin en sevdiğin mevsim hangisi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Bahar, çiçeklerin ve yeşilliklerin açtığı zamanlar."
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Bahar gerçekten güzel bir mevsimdir."
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Evet, doğanın uyanışını izlemek harika bir duygu."
+            }
+        ]
+    }
+]

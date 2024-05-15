@@ -1,0 +1,6 @@
+/venv
+/model
+.DS_Store
+__pycache__/
+/model.py
+/train.py

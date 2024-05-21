@@ -3,14 +3,13 @@ from torch.nn import functional as F
 import os
 
 from utils import get_tokenizer
-from model import Model, ModelArgs
+from model import Transformer, ModelArgs
 
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 model_path = os.path.join(os.getcwd(), "model", "snapshot.pt")
 
 model_args = ModelArgs()
-model = Model(model_args)
-
+model = Transformer(model_args)
 model.load_state_dict(torch.load(model_path))
 model.to(device)
 
@@ -42,4 +41,3 @@ for i in range(5):
     response = generate_text(model, inpt)
     text = response
     print("Bot: ",response)
-

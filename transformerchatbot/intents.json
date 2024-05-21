@@ -6600,6 +6600,331 @@
             "text": "Ben Fırat üniversitesi Yardımcı Chatbotuyum Üniversiteye gelmek isteyenler ve Üniversite Öğrencileri için üniversitenin tanıtımında yardım sağlıyoruz"
           }
         ]
+      },
+      {
+        "dialog_id": 251,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Merhaba Sen kimsin"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Merhaba Ben Fırat üniversitesi Yardımcı Chatbotuyum"
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Seni Kim Tasarladı"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Ben Kutluay ulutaş Tarafından Tasarlandım"
+          }
+        ]
+      },
+      {
+        "dialog_id": 252,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Merhaba Nerelisin"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Merhaba Benim bir doğum yerim yok fakat Fırat Üniversitesinde Yapıldım"
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Kim yaptı seni"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Ben Kutluay ulutaş Tarafından Tasarlandım"
+          }
+        ]
+      },
+      {
+        "dialog_id": 253,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Fıratın konumu iyi mi"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Evet Fırat üniversitesinin konumu şehir içinde ve ulaşım yönünden çok rahattır."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Hangi Minibüsler gidiyor"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Hangi mahalleden geldiğine bağlı olarak değişebilir fakat genel olarak çoğu Fırat üniversitesinden geçmektedir"
+          }
+        ]
+      },
+      {
+        "dialog_id": 254,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Fıratta okunur mu"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Elbette Okuyabilirsiniz Fırat üniversitesinde, Bu sizi ileriye taşıyacaktır "
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Nasıl ileri taşıyacak"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Bilgi birikim iş ve tecrübe konularında size yardımcı olucaktır ayrıca kampüs hayatı da sizi sosyalleştirecektir"
+          }
+        ]
+      },
+      {
+        "dialog_id": 255,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Fırat üniversitesinin Toplam kapasitesi nedir ?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Fırat Üniversitesi, 36.000 öğrencisi, 1545'i akademik olmak üzere 1408 idari personeli ve 2 milyon metrekare'ye ulaşan toplam alanı ile Üniversite kampüsü alan büyüklüğü olarak Türkiye'de üçüncü kampüstür. "
+          }
+        ]
+      },
+      {
+        "dialog_id": 256,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Bir dönem için gerekli AKTS ne kadar olmalıdır?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Faaliyete katılacak öğrencilerin tam zamanlı öğrenciler olması gerekir. Öğrencilerin diploma/derecelerinin gerektirdiği çalışmaları yurtdışında yapmak üzere bir yarıyıl için 30, bir tam akademik yıl için 60 AKTS kredisine denk gelen programı takip etmek üzere gönderilmesi beklenir. Takip edilen programda başarılı olunan kredilere tam akademik tanınma sağlanır, başarısız olunan krediler bir sonraki akademik yıl içerisinde tekrar edilir.  "
+          }
+        ]
+      },
+      {
+        "dialog_id": 257,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Alttan, üstten ders alarak veya dersi yükseltmeye alarak bir yarıyıl için 30 AKTS’ye tamamlamak mümkün müdür?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Evet. Alttan, üstten ders alarak veya dersi yükseltmeye alarak bir yarıyıl için 30 AKTS’ye tamamlamak öğrencinin hakkıdır."
+          }
+        ]
+      },
+      {
+        "dialog_id": 258,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Ders eşleştirme döneminde bu konuda bize kim yardımcı olabilir?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Ders eşleştirme döneminde sizin de araştırmalarınız dâhilinde bölüm koordinatörleriniz size yardımcı olmakla yükümlüdürler."
+          }
+        ]
+      },
+      {
+        "dialog_id": 259,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Son sınıf öğrencileri ikinci dönem alttan ders bırakıp Erasmustan faydalanabilir mi?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Öğrencilik sıfatınız devam ettiği sürece bir ya da iki yarıyıl Erasmus+ yapabilirsiniz önemli olan her bir dönem için 30 AKTS ders eşleştirmeniz gerektiğidir."
+          }
+        ]
+      },
+      {
+        "dialog_id": 260,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Öğrencinin kazandığı üniversite için vize alamaması, kazandığı üniversite tarafından kabul edilmemesi veya deadline olması durumunda nasıl bir yol izlenecek?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Öğrencinin Dbs sisteminde yer alan kabul yazısı yerine vize alamadığı yazısı, deadline belgesi veya kabul edilmediğine dair olan belgeyi yüklemesi gerekmektedir. Bu durumda öğrencinin mağdur olmaması adına üniversite değişikliği yapılabilir."
+          }
+        ]
+      },
+      {
+        "dialog_id": 261,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Kabul mektubum gelmedi ne yapacağım?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Her üniversitenin sistemi farklıdır. Bazı üniversiteler kabul mektuplarını normal süreçten erken gönderebilirken bazı üniversiteler geç gönderebilir. Normal sürecin dışında gelişen bir durum söz konusuysa bölüm koordinatörleri tarafından destek alınarak kabul mektubunun gönderilebilmesini rica etmek amacıyla karşı üniversiteye mail atılabilir ve yahut karşı üniversite bizzat öğrenci ya da bölüm koordinatörü tarafından aranılabilir."
+          }
+        ]
+      },
+      {
+        "dialog_id": 262,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Üniversite tercihlerinde değişiklik yapılabilir mi?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Hayır, tercih edilen yada yerleştiğiniz üniversite ile ilgili herhangi bir değişiklik yapılamaz."
+          }
+        ]
+      },
+      {
+        "dialog_id": 263,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Dönem (Güz ve Bahar) değişikliği yapılabilir mi?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Hayır, tercih edilen dönem ile ilgili herhangi bir değişiklik yapılamaz."
+          }
+        ]
+      },
+      {
+        "dialog_id": 264,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Tercih etmediğim bir üniversiteyi kazandım. Sebebi nedir?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Üniversite yerleştirmeleri sistem üzerinden yapılmıştır. Sistemde kendi bölümünüz ile ilgili anlaşma yapılan üniversite olmadığı için sistem size en uygun olan üniversiteyi seçmiştir."
+          }
+        ]
+      },
+      {
+        "dialog_id": 265,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Bazı üniversitelerin başvuru süresi geçmiş. Bu konu ile ilgili ne yapılmalıdır?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Küresel salgın sebebiyle YÖK ve Ulusal Ajans izin verdikten sonra Erasmus+ Hareketliliği için faaliyetler başlamıştır."
+          }
+        ]
+      },
+      {
+        "dialog_id": 266,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Mezun olan öğrenciler Erasmus+ hareketliliğinden faydalanabilir mi?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Evet, mezuniyet sonrası staj hareketliliğinden faydalanabilir."
+          }
+        ]
+      },
+      {
+        "dialog_id": 267,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Staj veya Öğrenim hakkı kazanmış öğrenciler, haklarını bir sonraki yıla devredebilir mi?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Hayır, kazanılmış hak yalnızca kazanılan proje yılı için geçerlidir."
+          }
+        ]
+      },
+      {
+        "dialog_id": 268,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Dil puanı ne kadar süre geçerli?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Bu yıl için geçerli süre 1 yıldır."
+          }
+        ]
+      },
+      {
+        "dialog_id": 269,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Yedek öğrencilere ne zaman sıra gelecek?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Feragat eden ve gitme hakkını kullanmak istemeyen öğrenciler belli olduktan sonra kesinleşecektir."
+          }
+        ]
       }
 
 

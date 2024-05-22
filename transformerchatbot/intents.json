@@ -6925,7 +6925,268 @@
             "text": "Feragat eden ve gitme hakkını kullanmak istemeyen öğrenciler belli olduktan sonra kesinleşecektir."
           }
         ]
-      }
+      },
+      {
+        "dialog_id": 270,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Üniversitede Yemekhane var mı ?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Evet Fırat üniversitesinde Yemekhanemiz bulunmaktadır"
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Ne Tür Yemekler Çıkıyor"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Her GÜn Farklı Bir yemek çıkmaktadır Üniversitemizde Üniversite Yemek Listesine Fırat Yemekhane Sitesini Ziyaret Ederek Günün Yemeklerine Bakabilirsin."
+          }
+        ]
+      },
+      {
+        "dialog_id": 271,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Fırat Üniversitesi iyi mi ?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Fırat Üniversitesi genel olarak iyi bir üniversitedir Kampüsü , Bölümleri , Hocaları Size Çok şey katacaktır "
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "anladım peki üniversitede Sınavlar nasıl yapılır"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Üniversite de Sınavlar bir dönem için de Vize ve Final Şeklinde yapılır ve Sınav Takvimi okul başlangıcında Üniversite Web sitemizde Mevcut Olucaktır"
+          }
+        ]
+      },
+      {
+        "dialog_id": 272,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Vize mi daha zor Final mi"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Bence Final Sınavları Biraz daha zorlayabilir Çünkü ;Finalde Hem Vize Hemde Yeni Konular işin içine giriyor Bu sebeple Benim Fikrim Finaller"
+          }
+        ]
+      },
+      {
+        "dialog_id": 273,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Üniversite Kaç Tane Bölüm var"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Fırat Üniversitesi, çeşitli alanlarda lisans programları sunmaktadır. Mühendislik, fen bilimleri, sosyal bilimler, sağlık bilimleri, işletme gibi pek çok alanda lisans programları bulunmaktadır."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Hangisi Daha iyi"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "En iyi bölüm kişisel tercihlere bağlıdır ancak mühendislik fakültesi sıkça tercih edilen ve öne çıkan bir bölümdür."
+          },
+          {
+            "id": 4,
+            "sender": "user",
+            "text": "Neden Mühendislik dedin ?"
+          },
+          {
+            "id": 5,
+            "sender": "bot",
+            "text": "Bana Bu verileri Veren Kişinin de Bilgisayar Mühendisi Olmasından Kaynaklanıyor :)))"
+          },
+          {
+            "id": 6,
+            "sender": "user",
+            "text": "Bu verileri sana veren kim"
+          },
+          {
+            "id": 7,
+            "sender": "bot",
+            "text": "Bana Bu verileri Kutluay Ulutaş Verdi,Bu konu hakkında Sana En fazla Bu kadar yardım edebilirim."
+          }
+        ]
+      },
+      {
+        "dialog_id": 274,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Fırat Üniversitesi'nde en efsanevi hoca hangisi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Bu zor bir soru! Her bölümün ve fakültenin kendine özgü efsanevi hocaları var. Ama genel olarak en çok bahsedilenlerden biri Prof. Dr. X. Y. Hoca. Dersleri hem çok bilgilendirici hem de çok eğlenceli olduğu söyleniyor."
+            }
+        ]
+    },
+    {
+        "dialog_id": 275,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Fırat Üniversitesi'nde hangi araştırma laboratuvarları var?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Fırat Üniversitesi'nde birçok farklı araştırma laboratuvarı mevcut. İlgi alanlarınıza ve araştırma konunuza en uygun laboratuvarı bulmak için https://merlab.firat.edu.tr/ sayfasını ziyaret edebilirsiniz."
+            }
+        ]
+    },
+    {
+        "dialog_id": 276,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Fırat Üniversitesi'nde en uygun fiyatlı nerede yemek yiyebilirim?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Kampüs içinde birçok öğrenci dostu restoran ve kafeterya var. Fiyatlar mekana ve siparişinize göre değişse de, genel olarak oldukça uygun fiyatlı seçenekler bulabilirsiniz. En popüler ve uygun fiyatlı mekanlardan bazıları şunlar: \n* X Restoran \n* Y Kafeterya \n* Z Büfe"
+            }
+        ]
+    },
+    {
+        "dialog_id": 277,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Fırat Üniversitesi'nde hangi spor tesisleri var?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Fırat Üniversitesi'nde birçok farklı spor tesisi mevcut. Kapalı spor salonu, açık spor sahaları, yüzme havuzu, fitness salonu gibi birçok tesiste spor yapabilirsiniz. Spor tesisleri ve kullanım şartları hakkında detaylı bilgi için https://sksdab.firat.edu.tr/page/9207 sayfasını ziyaret edebilirsiniz."
+            }
+        ]
+    },
+    {
+        "dialog_id": 278,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Fırat Üniversitesi'nden mezun olduktan sonra iş bulmak kolay mı?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Fırat Üniversitesi mezunları birçok farklı sektörde iş bulabiliyor. Mezunların iş bulma oranı, aldıkları bölüme ve becerilerine göre değişiklik gösterse de, genel olarak oldukça yüksek bir iş bulma oranına sahip. Mezunların iş bulma konusunda daha fazla bilgi için https://www.kariyer.net/universite-profil/firat-universitesi-223534-256776 sayfasını ziyaret edebilirsiniz."
+            }
+        ]
+    },
+    {
+        "dialog_id": 279,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Yapay zeka mühendisliği gelecekte nasıl bir rol oynayacak?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Yapay zeka, mühendislik alanında giderek daha önemli bir rol oynamaktadır. Makine öğrenimi, robotik, otomasyon gibi alanlarda yapay zeka kullanımı yaygınlaşmaktadır. Yapay zeka mühendisleri, bu sistemlerin tasarımı, geliştirilmesi ve uygulanması için çalışmaktadır.\n\nGelecekte, yapay zekanın mühendislik alanında daha da önemli bir rol oynaması beklenmektedir. Yapay zeka, mühendislerin problemleri çözmesine, daha verimli sistemler tasarlamasına ve yeni ürünler ve hizmetler geliştirmesine yardımcı olabilir."
+            }
+        ]
+    },
+    {
+        "dialog_id": 280,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Mühendisler çevreyi korumak için neler yapabilir?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Mühendisler, çevreyi korumak için birçok farklı alanda çalışmaktadır. Sürdürülebilir enerji kaynakları geliştirmek, enerji verimliliğini artırmak, kirliliği azaltmak gibi alanlarda mühendisler önemli bir rol oynamaktadır.\n\nMühendisler ayrıca, doğal afetlere karşı dayanıklı altyapı tasarlamak, su kaynaklarını korumak ve biyolojik çeşitliliği korumak gibi alanlarda da çalışmaktadır."
+            }
+        ]
+    },
+    {
+        "dialog_id": 281,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Mühendislik eğitimi nasıl iyileştirilebilir?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Mühendislik eğitimi, sürekli gelişen bir alandır. Mühendislik eğitiminin daha iyi hale getirilmesi için birçok farklı çalışma yapılmaktadır.\n\nMühendislik eğitiminde daha fazla pratik uygulamaya yer verilmesi, mühendislik becerilerinin yanı sıra problem çözme ve iletişim becerilerinin de geliştirilmesi, farklı disiplinlerden öğrencilerin bir araya getirilmesi gibi konularda çalışmalar yapılmaktadır."
+            }
+        ]
+    },
+    {
+        "dialog_id": 282,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Mühendislik alanında daha fazla kadın olması neden önemli?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Mühendislik alanında daha fazla kadın olması, birçok açıdan önemlidir. Kadınların mühendislik alanına katılımı, farklı bakış açılarının ve deneyimlerin mühendislik problemlerine çözüm bulmak için kullanılmasını sağlar.\n\nAyrıca, mühendislik alanında daha fazla kadın olması, genç kızlara mühendislik alanında kariyer yapmaları için ilham kaynağı olabilir."
+            }
+        ]
+    },
+    {
+        "dialog_id": 283,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Mühendisliğin geleceği hakkında ne düşünüyorsunuz?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Mühendislik, sürekli gelişen ve değişen bir alandır. Mühendisliğin geleceği, birçok farklı faktöre bağlıdır. Yapay zeka, robotik, nanoteknoloji gibi yeni teknolojilerin gelişmesi, mühendislik alanında yeni fırsatlar ve zorluklar yaratacaktır.\n\nMühendislik, gelecekte de toplumun gelişmesi ve ilerlemesi için çok önemli bir rol oynamaya devam edecektir."
+            }
+        ]
+    }
+
 
 
 

@@ -7185,7 +7185,873 @@
                 "text": "Mühendislik, sürekli gelişen ve değişen bir alandır. Mühendisliğin geleceği, birçok farklı faktöre bağlıdır. Yapay zeka, robotik, nanoteknoloji gibi yeni teknolojilerin gelişmesi, mühendislik alanında yeni fırsatlar ve zorluklar yaratacaktır.\n\nMühendislik, gelecekte de toplumun gelişmesi ve ilerlemesi için çok önemli bir rol oynamaya devam edecektir."
             }
         ]
-    }
+    },
+    {
+        "dialog_id": 284,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Merhaba Üniversitedeki En Sevdiğin Hoca kim"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Malesef Ben Bir chatbotum En Sevdiğim gibi bir tanımım yok"
+            },
+            {
+                "id": 2,
+                "sender": "user",
+                "text": "Neden yok"
+            },
+            {
+                "id": 3,
+                "sender": "bot",
+                "text": "Malesef Benim Duygularım yok :)"
+            }
+        ]
+    },
+    {
+        "dialog_id": 284,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "Bu yılki hedeflerini belirledin mi?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Ben bir yapay zeka olduğum için hedeflerim yok, ancak size hedeflerinizi belirlemede yardımcı olabilirim."
+            }
+        ]
+    },
+    {
+        "dialog_id": 285,
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "user",
+                "text": "En sevdiğin kitap nedir?"
+            },
+            {
+                "id": 1,
+                "sender": "bot",
+                "text": "Ben bir yapay zeka olduğum için kitap okumam. Ancak size en sevdiğiniz kitap türü hakkında öneriler verebilirim."
+            }
+        ]
+    },
+    {
+        "dialog_id": 286,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Efsanelere göre kampüste gizli geçitler veya gizli odalar var mı?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Evet, efsanelere göre kampüsümüzde bir gizli geçit olduğu söylenir. Ancak, henüz kimse bulamadı! Belki sen bulabilirsin?"
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "O zaman maceraya atılmamız şart gibi görünüyor!"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Kesinlikle! Gizli geçidi bulursan haber ver, birlikte keşfedelim!"
+          }
+        ]
+      },
+      {
+        "dialog_id": 287,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Hazırlık okumak mantıklı mı?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Eğer İngilizce seviyen yeterince yüksek değilse ve üniversitedeki dersler İngilizce veriliyorsa, hazırlık okumak oldukça mantıklıdır. Bu, hem dil becerilerini geliştirmeni sağlar hem de derslerde daha başarılı olmanı sağlar."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Hazırlıkta hangi dersler var?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Hazırlık sınıfında genellikle İngilizce dil bilgisi, okuma, yazma, dinleme ve konuşma becerilerini geliştirmeye yönelik dersler bulunmaktadır. Ayrıca, bazı üniversitelerde akademik beceriler, not alma teknikleri ve sunum yapma gibi ek dersler de verilmektedir."
+          },
+          {
+            "id": 4,
+            "sender": "user",
+            "text": "Fırat üniverstesinde var mı"
+          },
+          {
+            "id": 5,
+            "sender": "bot",
+            "text": "Evet Fırat Üniversitesi de O tarz Üniversitelerdendir"
+          }
+        ]
+      },
+      {
+        "dialog_id": 288,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Hazırlık sınıfı zor mu?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Hazırlık sınıfının zorluk derecesi kişiden kişiye değişebilir. Eğer İngilizce temelin varsa ve düzenli çalışırsan, hazırlık sınıfını zorlanmadan geçebilirsin. Ancak, dil öğrenmeye yatkın değilsen biraz daha fazla çaba göstermen gerekebilir."
+          }
+        ]
+      },
+      {
+        "dialog_id": 289,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Hazırlıkta dersler nasıl işleniyor?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Hazırlıkta dersler genellikle İngilizce dil bilgisi, okuma, yazma, dinleme ve konuşma becerilerini geliştirmek üzerine odaklanır. Dersler interaktif olarak işlenir ve öğrencilerin aktif katılımı teşvik edilir. Grup çalışmaları, sunumlar ve dil laboratuvarları da sıkça kullanılır."
+          }
+        ]
+      },
+      {
+        "dialog_id": 290,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Hazırlık sınıfını geçemezsem ne olur?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Hazırlık sınıfını geçemediğin takdirde, genellikle bir yıl daha hazırlık okuma şansın olur. İkinci yılın sonunda da yeterli başarıyı sağlayamazsan, bazı üniversiteler program değiştirme veya üniversiteden ilişik kesme gibi yaptırımlar uygulayabilir."
+          }
+        ]
+      },
+      {
+        "dialog_id": 291,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Hazırlık atlama sınavı nasıl oluyor?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Hazırlık atlama sınavı, öğrencinin İngilizce dil seviyesini ölçen bir sınavdır. Genellikle dil bilgisi, okuma, yazma, dinleme ve konuşma bölümlerinden oluşur. Bu sınavda başarılı olan öğrenciler doğrudan bölümlerine başlayabilirler."
+          }
+        ]
+      },
+      {
+        "dialog_id": 292,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Hazırlıkta hangi seviyeler var?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Hazırlık programlarında genellikle başlangıç (A1), temel (A2), orta (B1), orta-üstü (B2) ve ileri (C1) seviyeler bulunur. Öğrenciler, seviye belirleme sınavı ile uygun seviyede sınıflara yerleştirilirler ve dil seviyelerine göre eğitim alırlar."
+          }
+        ]
+      },
+      {
+        "dialog_id": 293,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Fırat Üniversitesi'nde yurtlar nasıl?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Fırat Üniversitesi'nde devlet yurtları ve özel yurtlar bulunmaktadır. Devlet yurtları ekonomik olup temel ihtiyaçları karşılayacak şekilde düzenlenmiştir. Özel yurtlar ise daha fazla konfor ve hizmet sunmaktadır."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Yurtlara nasıl başvurabilirim?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Devlet yurtlarına başvuru için KYK'nın resmi internet sitesini ziyaret edebilir ve başvuru formunu doldurabilirsiniz. Özel yurtlar için ise doğrudan yurtlarla iletişime geçerek bilgi alabilir ve başvurunuzu gerçekleştirebilirsiniz."
+          }
+        ]
+      },
+      {
+        "dialog_id": 294,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Erasmus programına nasıl başvurabilirim?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Erasmus programına başvurmak için öncelikle üniversitenizin Erasmus Koordinatörlüğü tarafından duyurulan başvuru tarihlerini takip etmelisiniz. Başvuru formunu doldurup gerekli belgeleri (transkript, dil belgesi vb.) hazırlayarak başvurunuzu tamamlayabilirsiniz."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Başvuru için hangi belgelere ihtiyacım var?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Genellikle transkript, dil yeterlilik belgesi, motivasyon mektubu ve başvuru formu gereklidir. Ancak detaylı bilgi için üniversitenizin Erasmus Koordinatörlüğü'ne danışmalısınız."
+          }
+        ]
+      },
+      {
+        "dialog_id": 295,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Erasmus programı için dil yeterliliği nasıl sağlanır?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Erasmus programı için genellikle İngilizce dil yeterliliği gerekmektedir. TOEFL, IELTS veya üniversitenizin yaptığı dil sınavlarından yeterli puanı alarak dil yeterliliğinizi kanıtlayabilirsiniz."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Dil sınavına girmem şart mı?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Evet, Erasmus programına başvurabilmek için dil yeterliliğinizi kanıtlamanız gerekmektedir. Bu nedenle, üniversitenizin belirlediği dil sınavına girmeniz veya uluslararası geçerliliği olan bir dil sınavından yeterli puanı almanız şarttır."
+          }
+        ]
+      },
+      {
+        "dialog_id": 296,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Erasmus programında hibe alabilir miyim?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Evet, Erasmus programına katılan öğrenciler hibe alabilirler. Hibeler, gidilecek ülkenin yaşam masraflarına göre belirlenir ve öğrencinin yurt dışındaki temel ihtiyaçlarını karşılamayı amaçlar."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Hibe miktarı ne kadar?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Hibe miktarı gidilecek ülkeye ve program süresine göre değişiklik gösterir. Avrupa Komisyonu tarafından belirlenen hibe miktarları hakkında detaylı bilgiyi Erasmus Koordinatörlüğü'nden alabilirsiniz."
+          }
+        ]
+      },
+      {
+        "dialog_id": 297,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Erasmus süresince konaklama nasıl ayarlanır?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Erasmus süresince konaklama, genellikle gidilecek üniversitenin uluslararası ofisi tarafından ayarlanmaktadır. Öğrencilere yurt, öğrenci evi veya özel konaklama seçenekleri sunulabilir."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Konaklama masrafları nasıl karşılanır?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Konaklama masrafları, aldığınız Erasmus hibesi ile kısmen veya tamamen karşılanabilir. Ancak, bazı durumlarda ek masraflar çıkabileceğinden, kişisel bir bütçe planlaması yapmak önemlidir."
+          }
+        ]
+      },
+      {
+        "dialog_id": 298,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Bilgisayar Mühendisliği bölümünde hangi laboratuvar imkanları var?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Fırat Üniversitesi Bilgisayar Mühendisliği bölümünde öğrenciler, yazılım ve donanım laboratuvarlarından yararlanabilirler. Ayrıca, ağ laboratuvarı, yapay zeka laboratuvarı ve siber güvenlik laboratuvarı gibi özel alanlar da bulunmaktadır."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Laboratuvarlar ne zaman kullanıma açık?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Laboratuvarlar genellikle ders saatleri dışında öğrencilere projeleri ve araştırmaları için açık tutulmaktadır. Detaylı saat bilgisi için bölüm sekreterliğinden bilgi alabilirsiniz."
+          }
+        ]
+      },
+      {
+        "dialog_id": 299,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Bilgisayar Mühendisliği bölümünde akademik kadro nasıl?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Fırat Üniversitesi Bilgisayar Mühendisliği Bölümü, alanında uzman ve deneyimli akademik kadroya sahiptir. Kadromuzda, yazılım mühendisliği, yapay zeka, bilgisayar ağları ve siber güvenlik gibi farklı alanlarda uzmanlaşmış öğretim üyeleri bulunmaktadır."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Öğretim üyeleri hangi konularda araştırmalar yapıyor?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Bölümümüzdeki öğretim üyeleri, yapay zeka, makine öğrenmesi, veri bilimi, siber güvenlik, görüntü işleme ve ağ teknolojileri gibi konularda aktif olarak araştırmalar yapmaktadır. Ayrıca, ulusal ve uluslararası projelerde yer almaktadırlar."
+          }
+        ]
+      },
+      {
+        "dialog_id": 300,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Bilgisayar mühendisliği nedir?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Bilgisayar mühendisliği, yazılım geliştirme, donanım tasarımı ve bilgisayar sistemlerinin analizi ve geliştirilmesiyle ilgilenen bir mühendislik dalıdır. Bilgisayar mühendisleri, çeşitli programlama dilleri, algoritmalar ve yazılım araçları kullanarak teknoloji çözümleri üretirler."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Bilgisayar mühendisliğinde hangi konulara odaklanılır?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Bilgisayar mühendisliğinde yazılım geliştirme, algoritmalar, veri yapıları, bilgisayar ağları, yapay zeka, veri tabanları, siber güvenlik ve donanım tasarımı gibi konulara odaklanılır. Öğrenciler bu konularda hem teorik hem de pratik bilgi edinirler."
+          }
+        ]
+      },
+      {
+        "dialog_id": 301,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Bilgisayar mühendisliğini neden tercih etmeliyim?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Bilgisayar mühendisliği, hızla gelişen teknoloji dünyasında geniş iş imkanları sunan bir alandır. Yazılım geliştirme, veri bilimi, yapay zeka ve siber güvenlik gibi popüler alanlarda kariyer yapma fırsatı sunar. Ayrıca, problem çözme ve yenilikçi düşünme becerilerini geliştirme imkanı sağlar."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Mezun olduktan sonra iş bulma olasılığım yüksek mi?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Evet, bilgisayar mühendisliği mezunları için iş bulma olasılığı oldukça yüksektir. Teknoloji şirketleri, yazılım firmaları, start-up'lar ve kamu kurumları gibi birçok sektörde iş imkanları mevcuttur. Ayrıca, bilgisayar mühendisleri dünya genelinde yüksek talep görmektedir."
+          }
+        ]
+      },
+      {
+        "dialog_id": 302,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Bilgisayar mühendisliği eğitimi nasıldır?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Fırat Üniversiteinde Bilgisayar mühendisliği eğitimi, teorik ve pratik derslerin bir kombinasyonudur. Programlama, algoritmalar, veri yapıları, bilgisayar ağları, yazılım mühendisliği gibi temel derslerin yanı sıra, projeler ve laboratuvar çalışmaları da önemli bir yer tutar. Öğrenciler, güncel teknolojiler ve yazılım araçlarıyla çalışarak pratik deneyim kazanırlar."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Eğitim süresince hangi becerileri kazanırım?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Eğitim süresince programlama, problem çözme, algoritma geliştirme, sistem tasarımı, proje yönetimi ve takım çalışması gibi beceriler kazanırsınız. Ayrıca, yazılım geliştirme süreçlerini öğrenir ve gerçek dünya problemlerine teknolojik çözümler üretme yeteneği kazanırsınız."
+          }
+        ]
+      },
+      {
+        "dialog_id": 303,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Bilgisayar mühendisliği öğrencileri için hangi kulüpler ve etkinlikler var?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Fırat Üniversitesi'nde bilgisayar mühendisliği öğrencileri için çeşitli öğrenci kulüpleri ve etkinlikler bulunmaktadır. Yazılım geliştirme kulüpleri, hackathonlar, teknoloji seminerleri ve workshoplar gibi etkinlikler düzenlenmektedir. Bu etkinlikler, öğrencilerin bilgi ve becerilerini geliştirmelerine yardımcı olur."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Kulüplere nasıl katılabilirim?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Öğrenci kulüplerine katılmak için üniversitenizin öğrenci işleri veya kulüp koordinatörlüğü ile iletişime geçebilirsiniz. Ayrıca, dönem başında düzenlenen kulüp tanıtım günlerine katılarak ilgi duyduğunuz kulüpler hakkında bilgi alabilir ve üye olabilirsiniz."
+          }
+        ]
+      },
+      {
+        "dialog_id": 304,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Yazılım mühendisliği ile bilgisayar mühendisliği arasındaki fark nedir?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Yazılım mühendisliği, yazılım sistemlerinin tasarımı, geliştirilmesi, test edilmesi ve bakımı ile ilgilenir. Bilgisayar mühendisliği ise hem yazılım hem de donanım konularını kapsar ve bilgisayar sistemlerinin tüm bileşenleriyle ilgilenir. Kısacası, yazılım mühendisliği yazılıma odaklanırken, bilgisayar mühendisliği yazılım ve donanımı bir arada ele alır."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Hangi bölüm daha çok programlama içerir?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Her iki bölümde de programlama önemli bir yer tutar, ancak yazılım mühendisliği daha yoğun bir şekilde yazılım geliştirme ve programlamaya odaklanır. Bilgisayar mühendisliği ise programlamanın yanı sıra donanım ve bilgisayar sistemleriyle ilgili dersler de içerir."
+          }
+        ]
+      },
+      {
+        "dialog_id": 305,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Yazılım mühendisliği ve bilgisayar mühendisliğinde hangi dersler farklı?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Yazılım mühendisliği programında yazılım tasarımı, yazılım geliştirme süreçleri, yazılım testi ve bakım gibi dersler ön plandadır. Bilgisayar mühendisliğinde ise ek olarak dijital mantık tasarımı, mikroişlemciler, bilgisayar mimarisi ve donanım tasarımı gibi dersler bulunur."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Yazılım mühendisliğinde donanım dersleri var mı?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Yazılım mühendisliği programlarında genellikle temel donanım bilgisi sağlayan birkaç ders bulunabilir, ancak bu dersler bilgisayar mühendisliği programlarındaki kadar derinlemesine değildir. Yazılım mühendisliği daha çok yazılım geliştirme ve yönetimine odaklanır."
+          }
+        ]
+      },
+      {
+        "dialog_id": 306,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Yazılım mühendisliği mi yoksa bilgisayar mühendisliği mi seçmeliyim?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Hangi bölümü seçeceğiniz, ilgi alanlarınıza ve kariyer hedeflerinize bağlıdır. Eğer yazılım geliştirme, programlama ve yazılım projeleri yönetimi gibi konulara ilgi duyuyorsanız yazılım mühendisliği sizin için daha uygun olabilir. Eğer hem yazılım hem de donanım konularına ilgi duyuyorsanız, bilgisayar mühendisliği daha uygun olabilir."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Bilgisayar mühendisliği seçersem yazılım mühendisliği alanında çalışabilir miyim?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Evet, bilgisayar mühendisliği mezunları yazılım mühendisliği alanında çalışabilirler. Eğitimleri sırasında aldıkları yazılım ve programlama dersleri, yazılım geliştirme projelerinde çalışmalarına olanak tanır. Ancak, yazılım mühendisliği daha derinlemesine yazılım bilgisi sağlar."
+          }
+        ]
+      },
+      {
+        "dialog_id": 307,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Yazılım mühendisliği ve bilgisayar mühendisliği için hangi üniversiteyi tercih etmeliyim?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Üniversite tercihi yaparken, üniversitenin program kalitesine, akademik kadrosuna, laboratuvar ve araştırma imkanlarına, işbirliklerine ve mezunlarının kariyer başarısına dikkat etmelisiniz. Ayrıca, bölümde sunulan seçmeli dersler ve öğrencilerin projelere katılım imkanları da önemli faktörlerdir."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Fırat Üniversitesi bu bölümler için iyi bir seçenek mi?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Evet, Fırat Üniversitesi Bilgisayar Mühendisliği ve Yazılım Mühendisliği bölümleri, kaliteli eğitim programları ve deneyimli akademik kadrosuyla iyi bir seçenektir. Ayrıca, üniversitemiz çeşitli projeler ve etkinlikler aracılığıyla öğrencilere pratik deneyim kazanma fırsatı sunmaktadır."
+          }
+        ]
+      },
+      {
+        "dialog_id": 308,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Elektrik mühendisliği nedir?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Elektrik mühendisliği, elektrik enerjisinin üretimi, iletimi, dağıtımı ve kullanımı ile ilgilenen bir mühendislik dalıdır. Elektrik mühendisleri, güç sistemleri, elektronik devreler, haberleşme sistemleri ve kontrol sistemleri gibi alanlarda çalışırlar."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Elektrik mühendisliği hangi konuları kapsar?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Elektrik mühendisliği güç sistemleri, elektromanyetik, elektronik, sinyal işleme, haberleşme ve kontrol sistemleri gibi geniş bir yelpazede konuları kapsar. Ayrıca yenilenebilir enerji kaynakları ve enerji verimliliği gibi modern konuları da içerir."
+          }
+        ]
+      },
+      {
+        "dialog_id": 309,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Elektrik mühendisliği eğitiminde hangi dersler var?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Elektrik mühendisliği eğitiminde temel mühendislik derslerinin yanı sıra, devre teorisi, elektromanyetik alan teorisi, elektronik devreler, güç sistemleri, kontrol sistemleri, sinyal ve sistemler, haberleşme sistemleri ve mikroişlemciler gibi dersler bulunur."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Laboratuvar çalışmaları var mı?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Evet, elektrik mühendisliği programlarında laboratuvar çalışmaları önemli bir yer tutar. Öğrenciler, elektrik devreleri, elektronik cihazlar ve kontrol sistemleri üzerinde uygulamalı çalışmalar yaparak teorik bilgilerini pekiştirirler."
+          }
+        ]
+      },
+      {
+        "dialog_id": 310,
+        "dialog": [
+          {
+            "id": 0,
+                  "sender": "user",
+                  "text": "Makine mühendisliği nedir?"
+          },
+          {
+            "id": 1,
+                  "sender": "bot",
+                  "text": "Makine mühendisliği, mekanik sistemlerin tasarımı, analizi, üretimi ve bakımı ile ilgilenen bir mühendislik dalıdır. Makine mühendisleri, otomotiv, havacılık, enerji, imalat ve robotik gibi çeşitli sektörlerde çalışırlar."
+          },
+          {
+            "id": 2,
+                  "sender": "user",
+                  "text": "Makine mühendisliği hangi konuları kapsar?"
+          },
+          {
+            "id": 3,
+                  "sender": "bot",
+                  "text": "Makine mühendisliği, termodinamik, akışkanlar mekaniği, malzeme bilimi, mekanik tasarım, üretim teknolojileri, otomasyon ve kontrol sistemleri gibi geniş bir yelpazede konuları kapsar. Bu alanlar, mühendislerin çeşitli endüstriyel problemlere çözüm bulmasına olanak tanır."
+          }
+        ]
+      },
+      {
+        "dialog_id": 311,
+        "dialog": [
+          {
+            "id": 0,
+                  "sender": "user",
+                  "text": "Makine mühendisliğinde hangi yenilikler var?"
+          },
+          {
+            "id": 1,
+                  "sender": "bot",
+                  "text": "Makine mühendisliğinde, 3D baskı ve eklemeli imalat, akıllı malzemeler, robotik ve otomasyon, yenilenebilir enerji teknolojileri ve sürdürülebilir mühendislik gibi birçok yenilikçi alan bulunmaktadır. Bu yenilikler, endüstriyel süreçlerin daha verimli ve çevre dostu olmasını sağlamaktadır."
+          },
+          {
+            "id": 2,
+                  "sender": "user",
+                  "text": "Bu yenilikler nasıl uygulanıyor?"
+          },
+          {
+            "id": 3,
+                  "sender": "bot",
+                  "text": "Bu yenilikler, araştırma ve geliştirme projeleri, üniversite-sanayi işbirlikleri ve mühendislik eğitimi aracılığıyla uygulanmaktadır. Makine mühendisleri, yeni teknolojileri ve malzemeleri kullanarak daha verimli, dayanıklı ve çevre dostu ürünler ve sistemler tasarlamaktadır."
+          }
+        ]
+      },
+      {
+        "dialog_id": 312,
+        "dialog": [
+          {
+            "id": 0,
+                  "sender": "user",
+                  "text": "Makine mühendisliğinde araştırma ve geliştirme olanakları nasıl?"
+          },
+          {
+            "id": 1,
+                  "sender": "bot",
+                  "text": "Makine mühendisliği alanında araştırma ve geliştirme (Ar-Ge) çalışmaları oldukça yaygındır. Üniversiteler, özel sektör ve kamu kuruluşları, yeni malzemeler geliştirmek, üretim süreçlerini iyileştirmek ve yenilikçi mekanik sistemler tasarlamak için Ar-Ge projeleri yürütmektedir."
+          },
+          {
+            "id": 2,
+                  "sender": "user",
+                  "text": "Ar-Ge çalışmaları hangi konuları kapsıyor?"
+          },
+          {
+            "id": 3,
+                  "sender": "bot",
+                  "text": "Ar-Ge çalışmaları, ileri malzemeler, nanoteknoloji, 3D baskı, robotik sistemler, yenilenebilir enerji sistemleri, otomasyon ve kontrol sistemleri, sürdürülebilir imalat teknolojileri ve akıllı sistemler gibi geniş bir yelpazeyi kapsar. Bu çalışmalar, makine mühendisliğinin geleceğini şekillendirmektedir."
+          }
+        ]
+      },
+      {
+        "dialog_id": 313,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Mehmet Karaköse kimdir?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Mehmet Karaköse, Bilgisayar Mühendisliği bölümünde profesör olarak görev yapmaktadır."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Mehmet Karaköse hangi konularda uzmanlaşmıştır?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Uzmanlık alanları arasında bulanık sistemler, akıllı sistemler, simülasyon ve modelleme, arıza teşhisi, raylı sistemler, görüntü işleme ve endüstriyel uygulamalar bulunmaktadır."
+          }
+        ]
+      },
+      {
+        "dialog_id": 314,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Ahmet Bedri Özer kimdir?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Ahmet Bedri Özer, Bilgisayar Mühendisliği bölümünde görev yapan deneyimli bir öğretim üyesidir."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Ahmet Bedri Özer hangi konularda uzmanlaşmıştır?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Ahmet Bedri Özer, bilgisayar ağları, siber güvenlik ve internet teknolojileri konularında uzmanlaşmıştır ve bu konularda dersler vermektedir."
+          }
+        ]
+      },
+      {
+        "dialog_id": 315,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Taner Tuncer kimdir?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Taner Tuncer, Bilgisayar Mühendisliği bölümünde profesör olarak görev yapmaktadır."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Taner Tuncer hangi konularda uzmanlaşmıştır?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Taner Tuncer, algoritmalar,Görüntü işleme ve yazılım mühendisliği,Bilgisayar Donanımı konularında uzmanlaşmıştır ve bu konularda dersler vermektedir."
+          },
+          {
+            "id": 4,
+            "sender": "user",
+            "text": "Taner Tuncer'in eğitim geçmişi nedir?"
+          },
+          {
+            "id": 5,
+            "sender": "bot",
+            "text": "Taner Tuncer lisans eğitimini ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ alanında tamamlamıştır ve yüksek lisans BİLGİSAYAR MÜHENDİSLİĞİ ve doktora derecesini ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ olarak tamamlamıştır"
+          },
+          {
+            "id": 6,
+            "sender": "user",
+            "text": "Taner Tuncer'in akademik kariyeri hakkında daha fazla bilgi verebilir misiniz?"
+          },
+          {
+            "id": 7,
+            "sender": "bot",
+            "text": "Elbette. Taner Tuncer, akademik kariyerine lisans eğitimini tamamladığı üniversitede araştırma görevlisi olarak başlamış ve yüksek lisans ve doktora çalışmalarını tamamladıktan sonra profesörlük unvanını almıştır."
+          }
+        ]
+      },
+      {
+        "dialog_id": 316,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Güngör Yıldırım kimdir?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Güngör Yıldırım, Bilgisayar Mühendisliği bölümünde doçent olarak görev yapmaktadır."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Güngör Yıldırım hangi konularda uzmanlaşmıştır?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Uzmanlık alanları arasında kablosuz sensör ağları, nesnelerin interneti ve bilgisayar ağları bulunmaktadır."
+          }
+        ]
+      },
+      {
+        "dialog_id": 317,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Mehmet Kaya kimdir?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Mehmet Kaya, Bilgisayar Mühendisliği bölümünde görev yapan deneyimli bir öğretim üyesidir."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Mehmet Kaya hangi konularda uzmanlaşmıştır?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Mehmet Kaya, Yapay zeka Makine Öğrenimi gibi alanlarda uzman ve bu konularda dersler vermektedir."
+          }
+        ]
+      }
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+          
+      
+      
+      
+      
+    
+
 
 
 

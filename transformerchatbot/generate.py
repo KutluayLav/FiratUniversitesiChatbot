@@ -4,14 +4,24 @@ import os
 
 from utils import get_tokenizer
 from model import Transformer, ModelArgs
+from lora import Lora
 
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 model_path = os.path.join(os.getcwd(), "model", "snapshot.pt")
 
 model_args = ModelArgs()
 model = Transformer(model_args)
-model.load_state_dict(torch.load(model_path))
+model.load_state_dict(torch.load(model_path, map_location=device))
 model.to(device)
+print("lora weight adding...")
+lora = Lora(model)
+lora.freeze_non_lora_params()
+lora.print_model_parameters()
+lora.enable_disable_lora(enabled=True)
+total_params, trainable_params = lora.count_parameters()
+print(f"Toplam parametre sayısı: {total_params}")
+print(f"Eğitilebilir parametre sayısı: {trainable_params}")
+model = lora.model
 
 tokenizer = get_tokenizer()
 
@@ -35,9 +45,9 @@ def generate_text(model, text: str, stop_token=[32000], max_token: int = 100, te
 
 text = ""
 
-for i in range(5):
+while True:
     inpt = input("Human: ")
-    inpt = "<user>" + inpt + "<bot>"
+    text = text + "<user>" + inpt + "<bot>"
     response = generate_text(model, inpt)
-    text = response
-    print("Bot: ",response)
+    text =  text + response
+    print(text)

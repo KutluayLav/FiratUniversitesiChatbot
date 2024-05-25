@@ -1,16 +1,13 @@
-from dataclasses import dataclass
 import os
 import sys
-
+import argparse
 import torch
 import torch.nn as nn
 import torch.optim as optim
 from torch.nn import functional as F
-from torch.cuda.amp import GradScaler
-from torch.cuda.amp import autocast
-
+from torch.cuda.amp import GradScaler, autocast
+from dataclasses import dataclass
 from typing import Optional
-
 from model import Transformer
 from prepare_data import preprocess_dialogues, prepare_text_data
 from utils import get_tokenizer
@@ -19,18 +16,31 @@ device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
 scaler = GradScaler()
 
-batch_size = 8
-block_size = 1024
-max_iters = 1000
-eval_interval = 50
-learning_rate = 4e-4
-eval_iters = 50
-dropout = 0.2
+def parse_args():
+    parser = argparse.ArgumentParser(description='Train a Transformer model.')
+    parser.add_argument('--batch_size', type=int, default=8, help='Batch size for training')
+    parser.add_argument('--block_size', type=int, default=1024, help='Block size for training')
+    parser.add_argument('--max_iters', type=int, default=100, help='Maximum number of iterations')
+    parser.add_argument('--eval_interval', type=int, default=50, help='Evaluation interval')
+    parser.add_argument('--learning_rate', type=float, default=1e-4, help='Learning rate')
+    parser.add_argument('--eval_iters', type=int, default=50, help='Number of evaluation iterations')
+    parser.add_argument('--dropout', type=float, default=0.2, help='Dropout rate')
+    return parser.parse_args()
+
+args = parse_args()
+
+batch_size = args.batch_size
+block_size = args.block_size
+max_iters = args.max_iters
+eval_interval = args.eval_interval
+learning_rate = args.learning_rate
+eval_iters = args.eval_iters
+dropout = args.dropout
+
 model_path = os.path.join(os.getcwd(), "model", "snapshot.pt")
 model_dir = os.path.join(os.getcwd(), "model")
 if not os.path.exists(model_dir):
     os.makedirs(model_dir)
-
 
 @dataclass
 class ModelArgs:
@@ -47,26 +57,8 @@ torch.manual_seed(42)
 
 tokenizer = get_tokenizer()
 
-
 text_data_path = os.path.join(os.getcwd(), "data", "output.txt")
-json_data_path = os.path.join(os.getcwd(), "data", "intents.json")
-
-
-"""
-data = preprocess_dialogues(data_path, tokenizer)
-data = torch.tensor(data, dtype=torch.long, device=device)
-print(data.shape, data.dtype)
-
-n = int(0.9*len(data))
-train_data = data[:n]
-val_data = data[n:]
-"""
-
-
-#train_data, val_data = prepare_text_data(text_data_path)
-train_data, val_data = preprocess_dialogues(json_data_path)
-
-
+train_data, val_data = prepare_text_data(text_data_path)
 
 def get_batch(split):
     data = train_data if split == 'train' else val_data
@@ -75,11 +67,10 @@ def get_batch(split):
     y = torch.stack([data[i+1:i+block_size+1] for i in ix])
     return x, y
 
-
 if os.path.exists(model_path):
     model_args = ModelArgs()
     model = Transformer(model_args)
-    model.load_state_dict(torch.load(model_path))
+    model.load_state_dict(torch.load(model_path, map_location=device))
     model.to(device)
 else:
     model_args = ModelArgs()
@@ -87,7 +78,7 @@ else:
     model = model.to(device)
 
 optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
-print(sum(p.numel() for p in model.parameters())/1e6, 'M parameters')
+print(sum(p.numel() for p in model.parameters()) / 1e6, 'M parameters')
 
 @torch.no_grad()
 def estimate_loss():
@@ -103,9 +94,7 @@ def estimate_loss():
     model.train()
     return out
 
-
 for iter in range(max_iters):
-
     if iter % eval_interval == 0 or iter == max_iters - 1:
         losses = estimate_loss()
         print(f"step {iter}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}")
@@ -118,18 +107,11 @@ for iter in range(max_iters):
     scaler.step(optimizer)
     scaler.update()
 
-
-
-text = "Fırat Üniversitesi"
-context = torch.tensor([tokenizer.encode(text)], dtype=torch.long, device=device)
-print(tokenizer.decode(model.generate(context, max_new_tokens=400)[0].tolist()))
-
-text = "Tıp Fakültesi"
-context = torch.tensor([tokenizer.encode(text)], dtype=torch.long, device=device)
-print(tokenizer.decode(model.generate(context, max_new_tokens=400)[0].tolist()))
-
 text = "Bilgisayar Mühendisliği"
 context = torch.tensor([tokenizer.encode(text)], dtype=torch.long, device=device)
 print(tokenizer.decode(model.generate(context, max_new_tokens=400)[0].tolist()))
 
 torch.save(model.state_dict(), model_path)
+
+if __name__ == "__main__":
+    args = parse_args()

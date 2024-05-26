@@ -8020,7 +8020,129 @@
             "text": "Mehmet Kaya, Yapay zeka Makine Öğrenimi gibi alanlarda uzman ve bu konularda dersler vermektedir."
           }
         ]
+      },
+      {
+        "dialog_id": 318,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Doğudaki en iyi üniversite hangisi"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Bu konu hakkında Geçmişi ve Başarılarından ötürü Fırat üniversitesi diyeceğim."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Fırat üniversitesinin ne başarısı var ki ?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Fırat üniversitesi Bir çok dalda Dünya genelinde ödüller almış bir üniversitedir ve Büyük Bir geçmişi vardır Daha fazla bilgi için web sitesini ziyaret edebilirsin"
+          }
+        ]
+      },
+      {
+        "dialog_id": 319,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Fırat Üniversitesi'ne nasıl ulaşabilirim?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Fırat Üniversitesi'ne Elazığ Havalimanı'ndan taksi veya otobüs ile ulaşabilirsiniz. Ayrıca Elazığ şehir merkezinden kalkan birçok otobüs de üniversiteye gitmektedir. Ulaşım imkanları hakkında detaylı bilgi için https://www.firat.edu.tr/ulasim adresini ziyaret edebilirsiniz."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Şehir merkezine ne kadar uzaklıkta?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Fırat Üniversitesi'nin kampüsü Elazığ şehir merkezine Yürüme Mesafesindedir "
+          }
+        ]
+      },
+      {
+        "dialog_id": 320,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Fırat Üniversitesi'nde öğrenci hayatı nasıl?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Fırat Üniversitesi'nde öğrenci hayatı oldukça keyiflidir. Üniversitemizde birçok öğrenci kulübü ve topluluğu bulunmaktadır. Ayrıca Elazığ şehri de tarihi ve doğal güzellikleri ile oldukça yaşanabilir bir şehirdir."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Hangi kulüplere katılabilirim?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Fırat Üniversitesi'nde her alana hitap eden birçok öğrenci kulübü ve topluluğu bulunmaktadır. İlgi alanlarınıza göre bir kulübe katılabilirsiniz. Kulüpler hakkında detaylı bilgi için https://ogrenci.firat.edu.tr/kulupler adresini ziyaret edebilirsiniz."
+          }
+        ]
+      },
+      {
+        "dialog_id": 321,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Fırat Üniversitesi'nde Eczacılık Fakültesi var mı?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Evet, Fırat Üniversitesi Eczacılık Fakültesi 2023 yılında eğitim-öğretime başlamıştır ve oldukça modern bir binaya sahiptir."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Eczacılık Fakültesi'nde hangi dallar var?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Fırat Üniversitesi Eczacılık Fakültesi'nde 4 ana bilim dalı ve 1 yan dal bulunmaktadır:\n\n* Farmakognozi ve Farmakolojik Botanik Ana Bilim Dalı\n* Farmakoloji Ana Bilim Dalı\n* Eczacılık Kimyası Ana Bilim Dalı\n* Klinik Eczacılık Ana Bilim Dalı\n* Farmakoekonomi ve Farmakoepidemiyoloji Yan Dalı\n\nHangi dal ile ilgileniyorsunuz? Size daha detaylı bilgi verebilirim."
+          },
+          {
+            "id": 4,
+            "sender": "user",
+            "text": "Farmakognozi ve Farmakolojik Botanik Ana Bilim Dalı hakkında bilgi alabilir miyim?"
+          },
+          {
+            "id": 5,
+            "sender": "bot",
+            "text": "## Farmakognozi ve Farmakolojik Botanik Ana Bilim Dalı Hakkında Bilgiler:\n\nFarmakognozi ve Farmakolojik Botanik Ana Bilim Dalı, tıbbi bitkiler ve bitkisel ürünlerin incelenmesi ile ilgilenir. Bu dalda öğrenciler, tıbbi bitkilerin botanik özellikleri, kimyasal bileşenleri, farmakolojik etkileri ve kullanım alanları hakkında bilgi edinirler.\n\n## Farmakognozi ve Farmakolojik Botanik Ana Bilim Dalı'nda Verilen Dersler:\n\n* Tıbbi Bitkilerin Botanik Sistematiği\n* Tıbbi Bitkilerin Farmakognozisi\n* Tıbbi Bitkilerin Etken Maddeleri\n* Tıbbi Bitki Ürünlerinin Kalite Kontrolü\n* Tıbbi Bitkilerin Yetiştirilmesi ve Hasadı\n* Fitoterapi\n* Farmakoekonomi\n\n## Farmakognozi ve Farmakolojik Botanik Ana Bilim Dalı'ndan Mezun Olanların İş İmkanları:\n\n* Eczane\n* İlaç Fabrikaları\n* Tarım ve Orman Bakanlığı\n* Tıbbi Bitki Araştırma Enstitüleri\n* Üniversiteler\n\nFırat Üniversitesi Farmakognozi ve Farmakolojik Botanik Ana Bilim Dalı hakkında daha detaylı bilgi için https://www.firat.edu.tr/(https://ef.firat.edu.tr/) adresini ziyaret edebilirsiniz.\n\nBaşka sorunuz olursa sormaktan çekinmeyin."
+          },
+          {
+            "id": 6,
+            "sender": "user",
+            "text": "Teşekkürler!"
+          },
+          {
+            "id": 7,
+            "sender": "bot",
+            "text": "Rica ederim Yardımcı olmamı istediğiniz Başka bir Konu var mı ?"
+          }
+        ]
       }
+      
+      
       
       
       

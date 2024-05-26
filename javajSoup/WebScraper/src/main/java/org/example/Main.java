@@ -16,45 +16,41 @@ public class Main {
     public static void main(String[] args) {
 
         disableCertificateValidation();
-
-        String url = "https://www.firat.edu.tr/tr/page/news/dunyanin-en-etkili-bilim-insanlari-listesinde-firat-universitesinden-42-akademisyen-yer-aldi-4391";
-
+        https://www.firat.edu.tr/tr/page/news?page=2
         try {
-            Document doc = Jsoup.connect(url).get();
+            BufferedWriter writer = new BufferedWriter(new FileWriter("duyuru.txt", true));
 
-            Elements content = doc.select(".post-content");
+            for (int page = 35; page <= 40; page++) { // 30 sayfaya kadar döngü oluştur
+                String baseUrl = "https://www.firat.edu.tr/tr/page/news?page=" + page;
+                Document mainPage = Jsoup.connect(baseUrl).get();
+                Elements posts = mainPage.select(".item-content  a");
+                //System.out.println("Posts verisi:" + posts);
+                for (int i = 0; i < posts.size(); i += 2) {
+                    Element post = posts.get(i);
+                    String postUrl = post.absUrl("href");
+                    if (!postUrl.isEmpty()) {
+                        System.out.println("Duyuru URL'si: " + postUrl);
+                        Document postPage = Jsoup.connect(postUrl).get();
+                        Elements content = postPage.select(".post-content");
 
-            System.out.println("İçerik *************************************:" + content);
+                        for (Element element : content) {
+                            writer.write(element.text());
+                            writer.newLine();
+                        }
 
-
-            BufferedWriter writer = null;
-            try {
-                writer = new BufferedWriter(new FileWriter("output.txt", true));
-                for (Element element : content) {
-                    writer.write(element.text());
-                    writer.newLine();
-                }
-                writer.newLine();
-                writer.newLine();
-                System.out.println("HTML içeriği başarıyla output.txt dosyasına eklenmiştir.");
-            } catch (IOException e) {
-                e.printStackTrace();
-            } finally {
-                if (writer != null) {
-                    try {
-                        writer.close();
-                    } catch (IOException e) {
-                        e.printStackTrace();
+                        writer.newLine();
                     }
                 }
             }
+
+            writer.close();
+            System.out.println("Tüm içerikler başarıyla duyuru.txt dosyasına yazıldı.");
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
     private static void disableCertificateValidation() {
-
         try {
             TrustManager[] trustAllCerts = new TrustManager[]{
                     new X509TrustManager() {

@@ -26,7 +26,7 @@ def parse_args():
     parser.add_argument('--learning_rate', type=float, default=4e-4, help='Learning rate')
     parser.add_argument('--eval_iters', type=int, default=50, help='Number of evaluation iterations')
     parser.add_argument('--dropout', type=float, default=0.2, help='Dropout rate')
-    parser.add_argument('--train_type', type=str, default='finetune', choices=['finetune', 'pretrain'], help='Training type')
+    parser.add_argument('--train_type', type=str, default='pretrain', choices=['finetune', 'pretrain'], help='Training type')
     return parser.parse_args()
 
 args = parse_args()
@@ -70,20 +70,6 @@ def get_batch(split):
     y = torch.stack([data[i+1:i+block_size+1] for i in ix])
     return x, y
 
-model_args = ModelArgs()
-model = Transformer(model_args)
-print("Model loading...")
-model.load_state_dict(torch.load(model_path,  map_location=device))
-model.to(device)
-print("Lora weight adding...")
-lora = Lora(model)
-lora.freeze_non_lora_params()
-lora.print_model_parameters()
-lora.enable_disable_lora(enabled=True)
-total_params, trainable_params = lora.count_parameters()
-print(f"Total parameter count: {total_params}")
-print(f"Trainable parameter count: {trainable_params}")
-model = lora.model
 
 if train_type == "pretrain":
     model_args = ModelArgs()

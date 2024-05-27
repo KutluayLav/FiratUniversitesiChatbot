@@ -11,17 +11,16 @@ model_path = os.path.join(os.getcwd(), "model", "snapshot.pt")
 
 model_args = ModelArgs()
 model = Transformer(model_args)
-model.load_state_dict(torch.load(model_path, map_location=device))
 model.to(device)
-print("lora weight adding...")
 lora = Lora(model)
 lora.freeze_non_lora_params()
 lora.print_model_parameters()
 lora.enable_disable_lora(enabled=True)
 total_params, trainable_params = lora.count_parameters()
-print(f"Toplam parametre sayısı: {total_params}")
-print(f"Eğitilebilir parametre sayısı: {trainable_params}")
+print(f"Total parameter count: {total_params}")
+print(f"Trainable parameter count: {trainable_params}")
 model = lora.model
+model.load_state_dict(torch.load(model_path,  map_location=device))
 
 tokenizer = get_tokenizer()
 

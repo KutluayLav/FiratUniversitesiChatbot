@@ -20,18 +20,18 @@ public class Main {
     public static void main(String[] args) {
 
         try {
-            // JSON dosyasını oku
+
             String jsonContent = new String(Files.readAllBytes(Paths.get("new_data_68.json")));
 
-            // JSON dizgesini JSONArray nesnesine dönüştür
+
             JSONArray jsonArray = new JSONArray(jsonContent);
 
-            // Yalnızca 'text' alanını içeren metin dosyasına yaz
+
             FileWriter writer = new FileWriter("veri.txt");
             for (int i = 0; i < jsonArray.length(); i++) {
                 JSONObject jsonObject = jsonArray.getJSONObject(i);
                 String text = jsonObject.getString("text");
-                writer.write(text + "\n\n"); // Her metin öğesinden sonra bir boş satır ekleyin
+                writer.write(text + "\n\n");
             }
             writer.close();
 

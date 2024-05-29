@@ -8140,7 +8140,552 @@
             "text": "Rica ederim Yardımcı olmamı istediğiniz Başka bir Konu var mı ?"
           }
         ]
+      },
+      {
+        "dialog_id": 322,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Bölüm Tercih ederken nelere dikkat etmeliyim"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Bölüm tercih ederken dikkat etmeniz gereken bazı önemli noktalar şunlardır: \n1. İlgi Alanlarınız: Hangi konularda çalışmayı sevdiğinizi ve hangi alanlarda başarılı olduğunuzu düşünün.\n2. Kariyer Hedefleri: Gelecekte yapmak istediğiniz mesleği ve bu mesleğin gerektirdiği eğitimleri göz önünde bulundurun.\n3. İş Olanakları: Seçmeyi düşündüğünüz bölümün iş olanaklarını araştırın. Mezun olduktan sonra iş bulma konusunda zorlanmak istemezsiniz.\n4. Üniversitenin İmkânları: Üniversitenin sağladığı staj, değişim programları, laboratuvar ve kütüphane gibi olanakları değerlendirin.\n5. Danışmanlık ve Rehberlik: Bölüm hocaları ve mezun öğrencilerle konuşarak bölüm hakkında detaylı bilgi alın.\nKendinize en uygun bölümü seçmek için bu faktörleri dikkate almanız önemli."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Kimya mühendisliği var mı fırat üniversitesinde"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Evet, Fırat Üniversitesi'nde Kimya Mühendisliği bölümü bulunmaktadır. Kimya Mühendisliği bölümü, Mühendislik Fakültesi bünyesinde eğitim vermektedir. Daha fazla bilgi için üniversitenin web sitesini ziyaret edebilirsiniz: https://www.firat.edu.tr/bolumler/kimya-muhendisligi"
+          }
+        ]
+      },
+      {
+        "dialog_id": 323,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Bölüm tercihi konusunda bana yardımcı olabilir misin?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Tabii ki, bölüm tercihi yaparken dikkat etmeniz gereken bazı önemli noktalar var. Öncelikle ilgi alanlarınızı ve kariyer hedeflerinizi belirlemekle başlayabiliriz. Hangi konularda çalışmayı sevdiğinizi ve gelecekte yapmak istediğiniz mesleği düşünün. Bu konuda bir fikriniz var mı?"
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Evet, bilim ve teknolojiyle ilgili bir alanda çalışmak istiyorum."
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Harika, bilim ve teknoloji alanında birçok seçenek mevcut. Mühendislik, bilgisayar bilimi, biyoteknoloji gibi alanlar ilginizi çekebilir. Bu alanlardan hangisi size daha yakın geliyor?"
+          },
+          {
+            "id": 4,
+            "sender": "user",
+            "text": "Mühendislik alanı daha çok ilgimi çekiyor."
+          },
+          {
+            "id": 5,
+            "sender": "bot",
+            "text": "Mühendislik harika bir tercih! Fırat Üniversitesi'nde çeşitli mühendislik bölümleri bulunmaktadır: Elektrik-Elektronik Mühendisliği, Bilgisayar Mühendisliği, İnşaat Mühendisliği, Kimya Mühendisliği gibi. Hangi mühendislik dalı size daha cazip geliyor veya bu dallar hakkında daha fazla bilgi almak ister misiniz?"
+          }
+        ]
+      },
+      {
+        "dialog_id": 324,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Bölüm tercihi konusunda bana yardımcı olabilir misin?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Tabii ki, bölüm tercihi yaparken dikkat etmeniz gereken bazı önemli noktalar var. Öncelikle ilgi alanlarınızı ve kariyer hedeflerinizi belirlemekle başlayabiliriz. Hangi konularda çalışmayı sevdiğinizi ve gelecekte yapmak istediğiniz mesleği düşünün. Bu konuda bir fikriniz var mı?"
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Sosyal bilimlere ilgi duyuyorum, özellikle psikolojiye."
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Psikoloji harika bir alan! Fırat Üniversitesi'nde Psikoloji bölümü bulunmaktadır. Psikoloji, insan davranışlarını ve zihinsel süreçleri anlamaya yönelik geniş bir çalışma alanıdır. Bu bölümde eğitim alarak, klinik psikolog, endüstri ve örgüt psikoloğu gibi çeşitli kariyer yollarını izleyebilirsiniz. Psikoloji hakkında daha fazla bilgi almak ister misiniz?"
+          },
+          {
+            "id": 4,
+            "sender": "user",
+            "text": "Evet, psikoloji bölümünün ders içerikleri ve staj imkanları hakkında bilgi verebilir misin?"
+          },
+          {
+            "id": 5,
+            "sender": "bot",
+            "text": "Elbette! Psikoloji bölümünde genellikle insan davranışı, bilişsel psikoloji, gelişim psikolojisi, klinik psikoloji gibi dersler verilmektedir. Staj imkanları ise hastaneler, özel klinikler ve çeşitli sosyal hizmet kurumlarında yapılabilir. Daha fazla bilgi için üniversitenin ilgili bölüm sayfasını ziyaret edebilirsiniz: https://www.firat.edu.tr/psikoloji"
+          }
+        ]
+      },
+      {
+        "dialog_id": 325,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Bölüm tercihi konusunda bana yardımcı olabilir misin?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Tabii ki, bölüm tercihi yaparken dikkat etmeniz gereken bazı önemli noktalar var. Öncelikle ilgi alanlarınızı ve kariyer hedeflerinizi belirlemekle başlayabiliriz. Hangi konularda çalışmayı sevdiğinizi ve gelecekte yapmak istediğiniz mesleği düşünün. Bu konuda bir fikriniz var mı?"
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Sağlık alanında çalışmak istiyorum, özellikle hemşirelik ilgimi çekiyor."
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Hemşirelik, sağlık sektöründe çok önemli bir role sahip ve oldukça değerli bir meslektir. Fırat Üniversitesi'nde Hemşirelik bölümü bulunmaktadır. Bu bölümde teorik ve pratik eğitimler alarak, hastaneler ve sağlık kurumlarında çalışma imkanına sahip olabilirsiniz. Hemşirelik bölümü hakkında daha fazla bilgi almak ister misiniz?"
+          },
+          {
+            "id": 4,
+            "sender": "user",
+            "text": "Evet, hemşirelik bölümünün iş olanakları ve mezuniyet sonrası kariyer fırsatları hakkında bilgi verebilir misin?"
+          },
+          {
+            "id": 5,
+            "sender": "bot",
+            "text": "Tabii ki! Hemşirelik bölümü mezunları, hastaneler, klinikler, sağlık ocakları, özel sağlık kuruluşları gibi çeşitli yerlerde çalışma imkânına sahiptir. Ayrıca, mezuniyet sonrası yüksek lisans ve uzmanlık programlarına katılarak akademik kariyer de yapabilirsiniz. Detaylı bilgi için üniversitenin ilgili bölüm sayfasını ziyaret edebilirsiniz: https://www.firat.edu.tr/hemsirelik"
+          }
+        ]
+      },
+      {
+        "dialog_id": 326,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Bölüm tercihi konusunda bana yardımcı olabilir misin?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Tabii ki, bölüm tercihi yaparken dikkat etmeniz gereken bazı önemli noktalar var. Öncelikle ilgi alanlarınızı ve kariyer hedeflerinizi belirlemekle başlayabiliriz. Hangi konularda çalışmayı sevdiğinizi ve gelecekte yapmak istediğiniz mesleği düşünün. Bu konuda bir fikriniz var mı?"
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Evet, işletme ve ekonomi alanlarına ilgi duyuyorum."
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "İşletme ve ekonomi alanları, iş dünyasında geniş kariyer olanakları sunan popüler alanlardır. Fırat Üniversitesi'nde İşletme ve İktisat bölümleri bulunmaktadır. Bu bölümlerde işletme yönetimi, finans, pazarlama, makro ve mikro ekonomi gibi dersler alabilirsiniz. Bu bölümler hakkında daha fazla bilgi almak ister misiniz?"
+          },
+          {
+            "id": 4,
+            "sender": "user",
+            "text": "Evet, mezun olduktan sonra hangi alanlarda çalışabilirim?"
+          },
+          {
+            "id": 5,
+            "sender": "bot",
+            "text": "İşletme ve iktisat bölümlerinden mezun olduktan sonra, finans, muhasebe, pazarlama, insan kaynakları, yönetim danışmanlığı gibi çeşitli alanlarda çalışabilirsiniz. Ayrıca kamu sektörü ve özel sektörde geniş iş olanakları mevcuttur. Detaylı bilgi için üniversitenin ilgili bölüm sayfalarını ziyaret edebilirsiniz: https://www.firat.edu.tr/isletme ve https://www.firat.edu.tr/iktisat"
+          }
+        ]
+      },
+      {
+        "dialog_id": 327,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Bölüm tercihi konusunda bana yardımcı olabilir misin?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Tabii ki, bölüm tercihi yaparken dikkat etmeniz gereken bazı önemli noktalar var. Öncelikle ilgi alanlarınızı ve kariyer hedeflerinizi belirlemekle başlayabiliriz. Hangi konularda çalışmayı sevdiğinizi ve gelecekte yapmak istediğiniz mesleği düşünün. Bu konuda bir fikriniz var mı?"
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Sanat ve tasarım alanına ilgim var, özellikle grafik tasarım."
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Sanat ve tasarım alanı, yaratıcılığınızı ve estetik duyarlılığınızı geliştirebileceğiniz harika bir alandır. Fırat Üniversitesi'nde Grafik Tasarım bölümü bulunmaktadır. Bu bölümde görsel iletişim, dijital tasarım, illüstrasyon gibi konularda eğitim alabilirsiniz. Grafik Tasarım bölümü hakkında daha fazla bilgi almak ister misiniz?"
+          },
+          {
+            "id": 4,
+            "sender": "user",
+            "text": "Evet, bu bölümden mezun olduktan sonra hangi iş alanlarında çalışabilirim?"
+          },
+          {
+            "id": 5,
+            "sender": "bot",
+            "text": "Grafik Tasarım bölümü mezunları, reklam ajansları, dijital medya şirketleri, yayınevleri, tasarım stüdyoları gibi çeşitli iş alanlarında çalışabilirler. Ayrıca freelance tasarımcı olarak da kariyer yapma imkanınız vardır. Detaylı bilgi için üniversitenin ilgili bölüm sayfasını ziyaret edebilirsiniz: https://www.firat.edu.tr/grafik-tasarim"
+          }
+        ]
+      },
+      {
+        "dialog_id": 328,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Selam"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Selam! Fırat Üniversitesi hakkında bilgi almak için buradayım. Size nasıl yardımcı olabilirim?"
+          }
+        ]
+      },
+      {
+        "dialog_id": 329,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Nasılsın?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Ben iyiyim, teşekkür ederim! Fırat Üniversitesi hakkında sorularınızı yanıtlamak için buradayım. Size nasıl yardımcı olabilirim?"
+          }
+        ]
+      },
+      {
+        "dialog_id": 330,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Merhaba, nasılsın?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Merhaba! Ben iyiyim, teşekkürler. Siz nasılsınız? Fırat Üniversitesi hakkında size nasıl yardımcı olabilirim?"
+          }
+        ]
+      },
+      {
+        "dialog_id": 331,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Merhaba, orada mısın?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Merhaba! Evet, buradayım. Fırat Üniversitesi ile ilgili sorularınızı yanıtlamak için buradayım. Size nasıl yardımcı olabilirim?"
+          }
+        ]
+      },
+      {
+        "dialog_id": 332,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Merhaba, görüşmek üzere."
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Merhaba! Her zaman buradayım, sorularınız olursa bana ulaşabilirsiniz. Görüşmek üzere!"
+          }
+        ]
+      },
+      {
+        "dialog_id": 333,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Merhaba, nasıl gidiyor?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Merhaba! Her şey yolunda, teşekkürler. Fırat Üniversitesi hakkında size nasıl yardımcı olabilirim?"
+          }
+        ]
+      },
+      {
+        "dialog_id": 334,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Selam, bot!"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Selam! Fırat Üniversitesi Chatbot'u olarak buradayım. Size nasıl yardımcı olabilirim?"
+          }
+        ]
+      },
+      {
+        "dialog_id": 335,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Fırat Üniversitesi'nde en iyi takılmalık yerler neresi?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Merhaba! Fırat Üniversitesi'nde öğrencilerin takılabileceği birçok harika yer var. İşte bazıları:\n\n1. **Merkez Kütüphane:** Ders çalışmak ve arkadaşlarınızla buluşmak için ideal bir yer.\n2. **Kampüs Kafeteryaları:** Yemek yiyip dinlenebileceğiniz çeşitli kafeteryalar mevcut.\n3. **Sosyal Tesisler:** Spor yapmak ve sosyalleşmek için harika olanaklar sunar.\n4. **Üniversite Parkı:** Doğayla iç içe yürüyüşler yapabileceğiniz ve piknik yapabileceğiniz güzel bir alan.\n5. **Üniversite Çarşısı:** Alışveriş yapabileceğiniz, kafelerde oturup vakit geçirebileceğiniz bir yer."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Merkez Kütüphane hakkında biraz daha bilgi verebilir misin?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Tabii ki! Merkez Kütüphane, geniş bir kitap koleksiyonuna ve çalışma alanlarına sahiptir. Sessiz çalışma odaları, grup çalışma odaları ve bilgisayar laboratuvarları mevcuttur. Ayrıca, rahatça ders çalışabileceğiniz ve araştırma yapabileceğiniz modern bir ortam sunar."
+          }
+        ]
+      },
+      {
+        "dialog_id": 336,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Dersler hep sabah mı oluyor?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Merhaba! Hayır, dersler genellikle sabah saatlerinde değil, gün boyunca çeşitli saatlerde olabilir. Ders programları her dönem değişebilir ve farklı bölümler veya dersler farklı saatlerde olabilir."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Anladım, ders programını nereden öğrenebilirim?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Ders programınızı öğrenmek için üniversitenizin öğrenci bilgi sistemi veya web sitesi üzerinden erişebilirsiniz. Genellikle bu bilgilere öğrenci girişi yaparak ulaşabilirsiniz. Ayrıca, ders programınızı öğrenmek için akademik danışmanlarınıza da danışabilirsiniz."
+          }
+        ]
+      },
+      {
+        "dialog_id": 337,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Merhaba yapay zeka ile ilgili hangi bölümleri önerirsin?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Merhaba! Yapay zeka ile ilgili bir kariyer yapmak istiyorsanız, aşağıdaki bölümleri düşünebilirsiniz:\n\n1. Bilgisayar Mühendisliği\n2. Elektrik-Elektronik Mühendisliği\n3. Matematik\n4. İstatistik\n5. Veri Bilimi\n\nBu bölümler yapay zeka, makine öğrenimi, derin öğrenme ve benzeri konularda gerekli temel bilgi ve becerileri sağlar. Hangi alanda ilgili olduğunuzu ve kariyer hedeflerinizi göz önünde bulundurarak bölüm seçiminizi yapabilirsiniz."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Teşekkürler, hangi bölümü seçmem gerektiği konusunda nasıl karar verebilirim?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Bölüm seçimi yaparken ilgi alanlarınızı, güçlü yanlarınızı ve kariyer hedeflerinizi göz önünde bulundurmanız önemlidir. Hangi konularda tutkulu olduğunuzu ve gelecekte ne tür bir iş yapmak istediğinizi düşünün. Ayrıca, ilgilendiğiniz bölümlerin müfredatını, kariyer olanaklarını ve mezunların iş bulma durumunu araştırmak da faydalı olacaktır."
+          },
+          {
+            "id": 4,
+            "sender": "user",
+            "text": "Anladım, teşekkürler."
+          }
+        ]
+      },
+      {
+        "dialog_id": 338,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Merhaba, yapay zeka alanında hangi bölümleri önerirsiniz?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Merhaba! Yapay zeka alanında kariyer yapmak istiyorsanız, aşağıdaki bölümleri düşünebilirsiniz:\n\n1. Bilgisayar Bilimi\n2. Elektrik ve Elektronik Mühendisliği\n3. Matematik ve Bilgisayar Bilimi\n4. Veri Bilimi ve Analitiği\n5. Yapay Zeka ve Makine Öğrenimi\n\nBu bölümler, yapay zeka, makine öğrenimi, veri analizi ve benzeri konularda derinlemesine bilgi edinmenizi sağlayacaktır. Hangi alanda ilgi duyduğunuzu ve kariyer hedeflerinizi göz önünde bulundurarak bölüm seçiminizi yapabilirsiniz."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Anladım, bu bölümler arasında hangi farklar var?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Bu bölümler arasındaki farklar, müfredat yapıları, odaklanılan konular, iş imkanları ve kariyer yolları gibi faktörlere bağlı olarak değişiklik gösterebilir. Örneğin, Bilgisayar Bilimi daha genel bir bakış açısı sunarken, Elektrik ve Elektronik Mühendisliği daha donanımsal ve fiziksel sistemlere odaklanabilir."
+          }
+        ]
+      },
+      {
+        "dialog_id": 339,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Yapay zeka alanında okuyacak bir bölüm önerebilir misiniz?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Tabii ki! Yapay zeka alanında kariyer yapmak istiyorsanız, aşağıdaki bölümleri göz önünde bulundurabilirsiniz:\n\n1. Bilgisayar Mühendisliği\n2. Elektrik-Elektronik Mühendisliği\n3. Matematik ve Bilgisayar Bilimi\n4. Veri Bilimi ve Analitiği\n5. Yapay Zeka ve Robotik\n\nBu bölümler, yapay zeka, makine öğrenimi, veri analizi ve benzeri konularda derin bir bilgi birikimi sağlar. Hangi alanda ilgili olduğunuzu ve kariyer hedeflerinizi göz önünde bulundurarak bölüm seçiminizi yapabilirsiniz."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Teşekkürler, mezuniyet sonrası kariyer imkanları nelerdir?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Mezuniyet sonrası yapay zeka alanında birçok kariyer fırsatı bulunmaktadır. Örneğin, veri bilimcisi, yapay zeka mühendisi, makine öğrenimi uzmanı, robotik mühendisi, yapay zeka araştırmacısı gibi pozisyonlarda çalışabilirsiniz. Bu alanlarda hem endüstriyel firmalarda hem de araştırma enstitülerinde iş imkanları mevcuttur."
+          }
+        ]
+      },
+      {
+        "dialog_id": 340,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Merhaba, matematik alanında kariyer yapmak istiyorum. Hangi bölümleri önerirsiniz?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Merhaba! Matematik alanında kariyer yapmak istiyorsanız, aşağıdaki bölümleri düşünebilirsiniz:\n\n1. Matematik\n2. İstatistik\n3. Matematik Mühendisliği\n4. Finans Matematiği\n\nBu bölümler, matematik ve istatistik alanlarında derin bir bilgi birikimi sağlar ve çeşitli sektörlerde kariyer fırsatları sunar."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Anladım, hangi bölümü seçmem gerektiği konusunda nasıl karar verebilirim?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Bölüm seçimi yaparken ilgi alanlarınızı, güçlü yanlarınızı ve kariyer hedeflerinizi göz önünde bulundurmanız önemlidir. Hangi konularda tutkulu olduğunuzu ve gelecekte ne tür bir iş yapmak istediğinizi düşünün. Ayrıca, ilgilendiğiniz bölümlerin müfredatını, kariyer olanaklarını ve mezunların iş bulma durumunu araştırmak da faydalı olacaktır."
+          },
+          {
+            "id": 4,
+            "sender": "user",
+            "text": "Teşekkürler, mezun olduktan sonra hangi iş imkanları var?"
+          },
+          {
+            "id": 5,
+            "sender": "bot",
+            "text": "Matematik alanında mezun olduktan sonra çeşitli iş imkanları bulunmaktadır. Örneğin, veri analisti, finansal analist, istatistikçi, öğretmen, araştırmacı gibi pozisyonlarda çalışabilirsiniz. Hangi alanda uzmanlaşmak istediğinizi ve kariyer hedeflerinizi belirleyerek uygun bir iş seçebilirsiniz."
+          },
+          {
+            "id": 6,
+            "sender": "user",
+            "text": "Anladım, bu işler için hangi becerilere ihtiyaç var?"
+          },
+          {
+            "id": 7,
+            "sender": "bot",
+            "text": "Matematik alanında kariyer yapmak için analitik düşünme, problem çözme, sayısal ve mantıksal yetenekler önemlidir. Ayrıca, programlama bilgisi, istatistik ve veri analizi konularında uzmanlık gerekebilir. İletişim ve takım çalışması becerileri de kariyerinizde önemli olacaktır."
+          }
+        ]
+      },
+      {
+        "dialog_id": 341,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Selam, yazılım mühendisliği alanında kariyer yapmak istiyorum. Hangi bölümleri önerirsiniz?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Merhaba! Yazılım mühendisliği alanında kariyer yapmak istiyorsanız, aşağıdaki bölümleri değerlendirebilirsiniz:\n\n1. Bilgisayar Mühendisliği\n2. Yazılım Mühendisliği\n3. Bilgisayar Bilimi\n4. Elektrik-Elektronik Mühendisliği\n\nBu bölümler, yazılım geliştirme, programlama ve bilgisayar bilimleri alanlarında derin bir bilgi birikimi sağlar ve çeşitli sektörlerde kariyer fırsatları sunar."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Anladım, mezuniyet sonrası hangi iş imkanları var?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Yazılım mühendisliği mezunları çeşitli sektörlerde iş imkanları bulabilirler. Yazılım mühendisi, yazılım geliştirici, sistem analisti, veri mühendisi gibi pozisyonlarda çalışabilirler. Ayrıca, yazılım danışmanlığı ve girişimcilik de kariyer seçenekleri arasındadır."
+          }
+        ]
+      },
+      {
+        "dialog_id": 342,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Merhaba, çevre mühendisliği alanında kariyer yapmak istiyorum. Hangi bölümleri önerirsiniz?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Merhaba! Çevre mühendisliği alanında kariyer yapmak istiyorsanız, aşağıdaki bölümleri düşünebilirsiniz:\n\n1. Çevre Mühendisliği\n2. Kimya Mühendisliği\n3. Biyoloji\n4. Jeoloji Mühendisliği\n\nBu bölümler, çevre bilimi, su ve hava kirliliği, atık yönetimi gibi konularda derin bir bilgi birikimi sağlar ve çeşitli sektörlerde kariyer fırsatları sunar."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Teşekkürler, mezuniyet sonrası hangi iş imkanları var?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Çevre mühendisliği mezunları çeşitli sektörlerde iş bulabilirler. Su ve atık yönetimi firmalarında, çevre danışmanlık şirketlerinde, belediyelerde ve çeşitli endüstriyel tesislerde çalışma imkanları bulunmaktadır. Ayrıca, araştırma enstitülerinde ve akademide de kariyer fırsatları vardır."
+          }
+        ]
       }
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
       
       
       

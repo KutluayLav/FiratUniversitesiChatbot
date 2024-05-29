@@ -8670,7 +8670,133 @@
             "text": "Çevre mühendisliği mezunları çeşitli sektörlerde iş bulabilirler. Su ve atık yönetimi firmalarında, çevre danışmanlık şirketlerinde, belediyelerde ve çeşitli endüstriyel tesislerde çalışma imkanları bulunmaktadır. Ayrıca, araştırma enstitülerinde ve akademide de kariyer fırsatları vardır."
           }
         ]
+      },
+      {
+        "dialog_id": 343,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Merhaba, Hangi mühendislik En iyisi"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Merhaba! Hangi mühendislik dalının en iyi olduğunu belirlemek zor çünkü bu, kişisel ilgi alanlarına, yeteneklere ve kariyer hedeflerine bağlı olarak değişebilir. Örneğin, yazılım mühendisliği teknoloji ve yeniliklerle ilgilenenler için harika olabilirken, makine mühendisliği tasarım ve üretime ilgi duyanlar için ideal olabilir."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "En iyisi hangisi ?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "En iyi mühendislik dalı, senin ilgi alanlarına, becerilerine ve kariyer hedeflerine bağlı olarak değişir. Yazılım mühendisliği, elektrik mühendisliği, makine mühendisliği, inşaat mühendisliği gibi birçok alanın her biri kendi içinde çok değerlidir ve farklı fırsatlar sunar. Senin için en iyisi hangisi, bunları göz önünde bulundurarak karar vermek en doğrusu olacaktır."
+          }
+        ]
+      },
+      {
+        "dialog_id": 344,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Merhaba, Fırat üniversitesi Nerede ? "
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Merhaba! Fırat Üniversitesi, Türkiye'nin Elazığ ilinde bulunmaktadır."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "peki kaç yılında kuruldu üniversite"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Fırat Üniversitesi, 1975 yılında kurulmuştur."
+          }
+        ]
+      },
+      {
+        "dialog_id": 345,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Üniversite de hangi bölümler 4 yıl hangileri 5 ve 6 "
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Genel olarak, üniversitelerdeki çoğu lisans bölümü 4 yıl sürer. Ancak bazı bölümler, eğitim süresi açısından farklılık gösterebilir. Örneğin, mühendislik ve öğretmenlik bölümleri genellikle 4 yıl sürerken, mimarlık bölümü 5 yıl sürebilir. Tıp, diş hekimliği ve veterinerlik gibi bölümler ise 6 yıl sürebilir."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "neden bazı bölümler daha uzun sürüyor"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Bazı bölümler, daha fazla uzmanlık gerektiren ve daha kapsamlı bir eğitim programına sahip oldukları için daha uzun sürer. Örneğin, tıp ve diş hekimliği gibi bölümler, hem teorik bilgi hem de pratik uygulama gerektirdiğinden daha uzun eğitim sürelerine sahiptir. Mimarlık gibi bazı diğer bölümler ise hem tasarım hem de mühendislik bilgisi gerektirdiği için daha fazla süre alabilir. Bu ekstra süre, öğrencilere gerekli bilgi ve deneyimi kazandırmak için gereklidir."
+          }
+        ]
+      },
+      {
+        "dialog_id": 346,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Fırata bilgisayar mühendisliği binası kaç katlı ?"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Fırat Üniversitesi Bilgisayar Mühendisliği binası 5 katlıdır."
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Kaç tane sınıfı var ve amfi var mı ?"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Bilgisayar Mühendisliği binasında yaklaşık 30 sınıf bulunmaktadır. Ayrıca, 2 büyük amfi de mevcuttur."
+          }
+        ]
+      },
+      {
+        "dialog_id": 347,
+        "dialog": [
+          {
+            "id": 0,
+            "sender": "user",
+            "text": "Sen kimsin Kendini Tanıt"
+          },
+          {
+            "id": 1,
+            "sender": "bot",
+            "text": "Merhaba Ben Üniversite Chatbotuyum Size Nasıl Yardımcı Olabilirim ?"
+          },
+          {
+            "id": 2,
+            "sender": "user",
+            "text": "Hangi Üniversite"
+          },
+          {
+            "id": 3,
+            "sender": "bot",
+            "text": "Fırat üniversitesi Chatbotuyum"
+          }
+        ]
       }
+
       
       
       
